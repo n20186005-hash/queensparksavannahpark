@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Queen's Park Savannah | Puerto España, Trinidad y Tobago",
-    "description": "Explora el Queen's Park Savannah, el espacio abierto más grande de Puerto España, Trinidad y Tobago. Un parque histórico y área recreativa perfecta para caminar, deportes y eventos culturales."
+    "title": "Queen's Park Savannah | El Oasis de Puerto España y Epicentro del Carnaval",
+    "description": "Explora el Queen's Park Savannah, la rotonda más grande del mundo y el escenario principal del Carnaval de Trinidad. Admira los Siete Magníficos y disfruta de la comida callejera nocturna."
   },
   "header": {
     "home": "Inicio",
@@ -12,32 +12,30 @@
   },
   "hero": {
     "title": "Queen's Park Savannah",
-    "subtitle": "Puerto España · Trinidad y Tobago",
+    "subtitle": "El pulmón verde de Trinidad, el latido del Caribe",
     "rating": "4.4",
     "reviewCount": "9,735",
-    "hours": "Parque Público",
+    "hours": "Parque Urbano / Sitio Histórico / Centro del Carnaval",
     "openMaps": "Ver Ubicación"
   },
   "intro": {
     "title": "Explora el Queen's Park Savannah",
-    "description": "El Queen's Park Savannah es el espacio abierto más grande de Puerto España, Trinidad y Tobago. Este parque histórico y área recreativa es un destino popular tanto para locales como para turistas, ofreciendo hermosos paisajes y rica significancia cultural.\n\nUbicado en el 11 de Queen's Park E, el Savannah está rodeado por hitos notables y sirve como un centro para actividades recreativas, eventos culturales y reuniones comunitarias. Con sus vastos espacios verdes y ubicación conveniente, se ha convertido en un símbolo icónico de la ciudad capital de Trinidad y Tobago.",
+    "description": "Como el 'pulmón verde' de Puerto España, el Queen's Park Savannah no es solo un parque: es un microcosmos del estilo de vida trinitense. Desde los residentes locales trotando en la madrugada hasta los animados puestos de comida por la noche y los bailarines disfrazados durante el Carnaval, este lugar late con el pulso más apasionado del Caribe.\n\nAntiguamente la hacienda azucarera St. Clair, fue comprada por el Ayuntamiento a la familia Peschier en 1817 y conservada como terreno de recreo público. Hoy, con un perímetro de unos 3.5 kilómetros (2.2 millas), la carretera de un solo sentido que lo rodea forma efectivamente la rotonda de tráfico más grande del mundo.",
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
-        "El parque está abierto diariamente con entrada gratuita",
-        "La mañana temprano y la tarde son los mejores momentos para visitar",
-        "Se recomienda usar calzado cómodo para caminar",
-        "Lleva una cámara para capturar los hermosos paisajes",
-        "Lleva agua y protección solar"
+        "🌞 Tour de Energía Matutina: Trotar ➔ Visitar el Jardín Botánico Real al norte ➔ Beber agua de coco fresca",
+        "🌙 Tour Cultural Nocturno: Fotografía arquitectónica ➔ Disfrutar del atardecer ➔ Degustar comida callejera local en el mercado nocturno del sur",
+        "🎉 Experiencia de Festival: Si es posible, visita durante el Carnaval (usualmente febrero o marzo)"
       ]
     },
     "alsoKnownAs": {
       "title": "Destacados",
       "items": [
-        "Vasto Espacio Verde: El Savannah ofrece amplios céspedes y senderos para caminar, perfecto para ejercicio y relajación.",
-        "Centro Cultural: Anfitrión de numerosos eventos culturales, festivales y celebraciones durante todo el año.",
-        "Significancia Histórica: Rodeado por sitios de patrimonio y arquitectura de la era colonial.",
-        "Actividades Recreativas: Ideal para caminar, trotar, cricket y salidas familiares."
+        "🔄 La Rotonda Más Grande del Mundo: Una carretera perimetral de un solo sentido de 3.5 km, un paraíso para trotadores y entusiastas del fitness.",
+        "🏰 Los Siete Magníficos (The Magnificent Seven): Siete famosos edificios coloniales de la época victoriana bordean el lado oeste del parque, perfectos para la fotografía.",
+        "🎭 Epicentro del Carnaval: El escenario principal del mundialmente famoso Carnaval de Trinidad, albergando varios eventos culturales todo el año.",
+        "🍢 Comida del Mercado Nocturno: Degusta comida callejera local (como Doubles, Bake and Shark, Sopa de Maíz) en los puestos del sur después del atardecer."
       ]
     }
   },
@@ -45,16 +43,16 @@
     "title": "Ruta de Visita",
     "overview": "La ruta ideal para explorar el Queen's Park Savannah:",
     "steps": [
-      "Ingrese al Savannah desde Queen's Park East.",
-      "Camine alrededor del perímetro y disfrute de las vistas escénicas.",
-      "Visite los hitos cercanos y sitios culturales.",
-      "Relájese en los espacios verdes y experimente la vida local."
+      "Comienza tu mañana explorando el Jardín Botánico Real y el Zoológico Emperor Valley en el lado norte.",
+      "Pasea por el borde oeste para admirar y fotografiar los famosos 'Siete Magníficos'.",
+      "Relájate en los vastos céspedes y toma un agua de coco fresca de un vendedor local.",
+      "Después del atardecer, dirígete a los puestos de comida en el extremo sur para probar auténtica comida callejera trinitense."
     ],
     "supplementsTitle": "Consejos Adicionales de Visita",
     "supplements": [
-      "Visite durante el día para la mejor experiencia.",
-      "Verifique si hay eventos locales y festivales que puedan estar ocurriendo.",
-      "Respete el ambiente del parque y deshágase adecuadamente de la basura."
+      "El estacionamiento alrededor del perímetro puede ser difícil durante los días festivos; se recomienda tomar un taxi.",
+      "Espera cierres de carreteras importantes y multitudes durante la temporada de Carnaval; planifica con anticipación.",
+      "Al probar comida callejera, no olvides probar las salsas locales ligeramente picantes."
     ]
   },
   "knowledge": {
@@ -62,27 +60,27 @@
     "sections": [
       {
         "id": "history",
-        "title": "Importancia Histórica",
-        "content": "El Queen's Park Savannah es un hito histórico en Puerto España, que sirve como lugar de reunión central y área recreativa desde hace más de un siglo."
+        "title": "Evolución Histórica",
+        "content": "Antiguamente la hacienda azucarera St. Clair, el Ayuntamiento compró el terreno en 1817 como un espacio verde, siendo testigo del crecimiento de Puerto España desde la era colonial hasta una ciudad moderna."
       },
       {
         "id": "nature",
-        "title": "Paisaje del Parque",
-        "content": "Cuenta con hermosos espacios verdes y áreas abiertas, lo que lo convierte en un lugar excelente para experimentar la belleza natural de Trinidad y Tobago."
+        "title": "La Rotonda Más Grande del Mundo",
+        "content": "Cubriendo unas 260 acres, el Savannah está rodeado por una carretera de un solo sentido de 3.5 kilómetros, considerada la rotonda de tráfico más grande del mundo."
       },
       {
         "id": "experience",
-        "title": "Experiencia de Visita",
-        "content": "Caminar por el Queen's Park Savannah, sentir el ambiente vibrante y el hermoso paisaje, es una experiencia inolvidable en la capital de Trinidad y Tobago."
+        "title": "Alma del Carnaval Caribeño",
+        "content": "Este es el epicentro de uno de los carnavales más grandes del mundo: el Carnaval de Trinidad. El Gran Stand ha sido testigo de innumerables competiciones de calipso y desfiles de bandas."
       }
     ]
   },
   "basicInfo": {
-    "title": "Información Básica",
+    "title": "Datos Rápidos",
     "officialName": "Nombre Oficial",
     "officialNameValue": "Queen's Park Savannah",
-    "type": "Tipo de atracción",
-    "typeValue": "Parque Público",
+    "type": "Tipo de Atracción",
+    "typeValue": "Parque Urbano / Sitio Histórico / Centro del Carnaval",
     "country": "País",
     "countryValue": "Trinidad y Tobago",
     "city": "Ciudad",
@@ -95,34 +93,34 @@
     "phone": "Teléfono",
     "phoneValue": "+1 868-622-1670",
     "petFriendly": "Mascotas permitidas",
-    "petFriendlyValue": "Se admiten mascotas en áreas designadas",
+    "petFriendlyValue": "Se admiten mascotas",
     "tickets": "Entradas",
-    "ticketsValue": "Entrada gratuita"
+    "ticketsValue": "Entrada gratuita todo el día"
   },
   "hours": {
-    "title": "Horarios de Apertura",
+    "title": "Horarios y Consejos para Visitantes",
     "outdoor": "Acceso al Parque",
     "outdoorTime": "Abierto todos los días, 24 horas",
     "lighthouse": "Mejor Momento de Visita",
-    "summer": "Mañana/Tarde",
-    "summerTime": "Se recomienda la mañana temprano y la tarde",
-    "winter": "Instalaciones",
-    "winterTime": "Varias instalaciones recreativas disponibles",
-    "warning": "Notas Importantes",
-    "warningTime": "Verifique si hay eventos especiales que puedan afectar el acceso",
-    "tip": "Las visitas diurnas ofrecen la mejor experiencia"
+    "summer": "Mañana/Noche",
+    "summerTime": "Mañanas para hacer ejercicio, noches para la comida del mercado nocturno",
+    "winter": "Destacados",
+    "winterTime": "Siete Magníficos, Mercado Nocturno, Gran Stand del Carnaval",
+    "warning": "💡 Consejo de Expertos Locales",
+    "warningTime": "Debes visitar la zona de comida en el lado sur después del atardecer. Prueba los Doubles y la sopa de maíz: ¡es la mejor experiencia culinaria trinitense!",
+    "tip": "El sendero occidental ofrece el mejor punto de vista para fotografiar a los famosos 'Siete Magníficos'."
   },
   "tickets": {
     "title": "Información Importante",
     "outdoor": "Tarifa de Entrada",
-    "outdoorPrice": "Entrada gratuita (sujeto a confirmación en el lugar)",
+    "outdoorPrice": "Entrada gratuita",
     "lighthouse": "Información de Parqueo",
-    "adults": "Tarifa de Parqueo",
-    "adultsPrice": "Por favor consulte la información en el lugar",
-    "students": "Otros Cargos",
-    "studentsPrice": "Por favor consulte los anuncios oficiales",
-    "card": "Servicios a Visitantes",
-    "cardPrice": "Pueden haber servicios disponibles en el lugar. Indicaciones: 👉 [Ir a Queen's Park Savannah]",
+    "adults": "Parqueo Perimetral",
+    "adultsPrice": "Estacionamiento en la calle disponible, puede estar lleno en días festivos",
+    "students": "Gastos en Mercado Nocturno",
+    "studentsPrice": "Los vendedores de comida callejera usualmente solo aceptan efectivo",
+    "card": "Atracciones Cercanas",
+    "cardPrice": "Jardines Botánicos al norte, Siete Magníficos al oeste. 👉 [Ir a Queen's Park Savannah]",
     "officialNotice": "Para obtener las últimas actualizaciones sobre eventos e información relacionada, consulte el",
     "officialNoticeLinkLabel": "Sitio Web Oficial de Turismo",
     "officialNoticeLink": "https://visittrinidad.tt/"
@@ -130,41 +128,41 @@
   "transport": {
     "title": "Transporte",
     "airport": "Desde el Aeropuerto",
-    "airportDesc": "Desde el Aeropuerto Internacional de Piarco, tome un taxi o maneje hasta Puerto España. El Savannah es fácilmente accesible desde el centro de la ciudad.",
+    "airportDesc": "Desde el Aeropuerto Internacional de Piarco, un viaje en taxi al centro de Puerto España toma unos 40-50 minutos.",
     "selfDrive": "En Coche",
-    "selfDriveDesc": "El parque está ubicado en el centro de Puerto España. Use navegación para llegar. Hay parqueo disponible en las áreas circundantes.",
+    "selfDriveDesc": "La carretera alrededor del parque es una enorme rotonda de un solo sentido (en sentido antihorario). Por favor, observe las señales de tráfico y los límites de velocidad.",
     "bus": "Transporte Público",
-    "busDesc": "Puede tomar transporte público hasta el área del Savannah. Es un hito bien conocido en Puerto España.",
+    "busDesc": "La mayoría del transporte público y maxi-taxis en Puerto España pasan por o cerca del Savannah, haciéndolo muy accesible.",
     "intercity": "Caminando",
-    "intercityDesc": "El Savannah es amigable para peatones con senderos de caminata alrededor del perímetro.",
+    "intercityDesc": "El parque tiene un perímetro plano de 3.5 kilómetros, perfecto para caminar o trotar una vuelta completa.",
     "cycling": "Otros Medios",
-    "cyclingDesc": "Los taxis y maxi-taxis están fácilmente disponibles en Puerto España.",
+    "cyclingDesc": "Los viajes compartidos o taxis locales son opciones muy convenientes.",
     "tips": "Consejos de Viaje",
-    "tipsDesc": "El Queen's Park Savannah es un lugar excelente para experimentar la cultura y el estilo de vida de Trinidad y Tobago. Se recomiendan las visitas diurnas."
+    "tipsDesc": "Dado que es la rotonda más grande del mundo, si pierdes tu desvío, ¡podrías tener que conducir todo el bucle de 3.5 km de nuevo!"
   },
   "gallery": {
     "title": "Fotos Impresionantes",
-    "subtitle": "El Encanto del Queen's Park Savannah",
+    "subtitle": "Siente el Pulso Apasionado del Caribe",
     "captions": [
-      "Vista panorámica del parque",
-      "Paisaje verde",
-      "Área recreativa",
-      "Paisaje del parque",
+      "Vista panorámica del Savannah",
+      "Edificios de los Siete Magníficos",
+      "Celebraciones del Carnaval",
+      "Comida callejera del mercado nocturno",
+      "Trotadores matutinos",
+      "Entrada a los Jardines Botánicos",
+      "Arquitectura histórica",
+      "Amplios céspedes verdes",
+      "Eventos en el Gran Stand",
+      "Vendedor de agua de coco",
+      "Edificios de la época colonial",
+      "Savannah al anochecer",
+      "Estilo de vida tranquilo",
       "Paisaje natural",
-      "Senderos para caminatas",
-      "Vista de la ciudad",
-      "Características del parque",
-      "Ambiente de esparcimiento",
-      "Espacio verde",
-      "Cultura del parque",
-      "Vista completa del parque",
-      "Estilo de esparcimiento",
-      "Rastros naturales",
-      "Paisaje cultural",
-      "Paisaje natural",
-      "Paisaje del parque",
-      "Instalaciones recreativas",
-      "Ambiente verde"
+      "Vibras caribeñas",
+      "Hito de la ciudad",
+      "Reuniones culturales",
+      "Actividades deportivas",
+      "Ecología verde"
     ],
     "viewAll": "Ver más fotos en Google Maps",
     "showAllPhotos": "Mostrar Todas las Fotos"
@@ -178,49 +176,49 @@
         "name": "John Mitchell",
         "date": "hace 1 mes",
         "rating": 5,
-        "text": "Un parque hermoso y espacioso en el corazón de Puerto España. Perfecto para caminatas matutinas y salidas familiares. El ambiente siempre es vibrante."
+        "text": "¡La rotonda más grande del mundo! Comer Doubles aquí por la noche fue mi mejor experiencia en Trinidad."
       },
       {
         "name": "Maria Santos",
         "date": "hace 2 semanas",
         "rating": 5,
-        "text": "Amazing espacio abierto con tanta historia. Un gran lugar para relajarse y disfrutar de la brisa de Trinidad. Un lugar imperdible en Puerto España."
+        "text": "Increíble espacio abierto con tanta historia. Los Siete Magníficos en el lado oeste son una visita obligada. Esencial en Puerto España."
       },
       {
         "name": "David Thompson",
         "date": "hace 3 semanas",
         "rating": 4,
-        "text": "Lindo parque con mucho espacio verde. Bueno para hacer ejercicio y pasar tiempo al aire libre. Los alrededores están llenos de carácter."
+        "text": "Trotar aquí cada mañana se siente genial. Tomar un agua de coco fresca es la manera perfecta de comenzar el día."
       },
       {
         "name": "Sarah Williams",
         "date": "hace más de 6 meses",
         "rating": 5,
-        "text": "Una parte icónica de Puerto España. El Savannah es perfecto para eventos culturales y ocio. Hermoso y bien mantenido."
+        "text": "¡Durante el Carnaval, este es absolutamente el centro del mundo! El ambiente es una locura y los espectáculos del Gran Stand son inolvidables."
       },
       {
         "name": "Michael Roberts",
         "date": "hace 2 meses",
         "rating": 4,
-        "text": "Un gran lugar para experimentar la vida local. Los espacios abiertos son maravillosos y siempre hay algo pasando."
+        "text": "Un gran lugar para experimentar la vida local. La sopa de maíz y el Bake and Shark en el mercado nocturno son deliciosos."
       },
       {
         "name": "Lisa Richardson",
         "date": "hace 1 mes",
         "rating": 5,
-        "text": "Hermoso parque con un gran ambiente. El paisaje es fantástico y es un lugar perfecto para fotos y relajación."
+        "text": "Hermoso parque, con los Jardines Botánicos Reales justo al norte. Fantástico paisaje y un lugar perfecto para fotos."
       },
       {
         "name": "Kevin James",
         "date": "hace 3 meses",
         "rating": 4,
-        "text": "Buen lugar para pasar una tarde. Mucho espacio para caminar y disfrutar del aire libre. Recomendado para familias."
+        "text": "Gran espacio, muchas familias jugando al críquet aquí los fines de semana. El tráfico alrededor es intenso, pero dentro del parque es pacífico."
       },
       {
         "name": "Jennifer Lewis",
         "date": "hace 2 meses",
         "rating": 5,
-        "text": "La joya de la corona de Puerto España. Este parque es un lugar importante para comprender la cultura y el espíritu comunitario de Trinidad."
+        "text": "La joya de la corona de Puerto España. No solo un espacio verde, sino el mejor lugar para entender la cultura, historia y comida de Trinidad."
       }
     ]
   },
@@ -298,14 +296,39 @@
         "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
       },
       {
-        "heading": "4. Propiedad Intelectual",
-        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. Las imágenes provienen de Unsplash y se utilizan bajo licencia. El uso de datos de Google Maps cumple con los términos de servicio de Google."
-      },
-      {
-        "heading": "5. Limitación de Responsabilidad",
-        "content": "Este sitio web se proporciona \"tal como está\" sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo, entre otros, las decisiones de viaje basadas en su contenido."
+        "heading": "4. Limitación de Responsabilidad",
+        "content": "No seremos responsables por ningún daño directo o indirecto derivado del uso de este sitio web o la dependencia de la información aquí proporcionada."
       }
     ]
+  },
+  "historyTimeline": {
+    "title": "Cronología Histórica",
+    "items": [
+      {
+        "year": "Período Inicial",
+        "title": "Período Inicial: Establecimiento del Parque",
+        "plaque": "Espacio Público (Parque)",
+        "description": "El Queen's Park Savannah fue establecido como un espacio recreativo público para los ciudadanos de Puerto España, y ha sido considerado durante mucho tiempo como un importante lugar de reunión por los residentes locales."
+      },
+      {
+        "year": "Siglo XX",
+        "title": "Siglo XX: Mejora de Instalaciones",
+        "plaque": "Desarrollo Urbano (Mejora del Parque)",
+        "description": "Con el desarrollo de Puerto España, el Savannah mejoró gradualmente sus instalaciones, convirtiéndose en un lugar importante para el esparcimiento y eventos culturales de los ciudadanos."
+      },
+      {
+        "year": "Siglo XXI",
+        "title": "Siglo XXI: Hito Cultural",
+        "plaque": "Identidad Cultural (Espacio Público)",
+        "description": "Al entrar en el siglo XXI, con su hermoso ambiente y conveniente ubicación, ha atraído a más visitantes y se ha convertido en un espacio cultural icónico en Puerto España."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puede ingresar al Savannah desde Queen's Park East; luego camine alrededor del perímetro y disfrute del paisaje y el ambiente de esparcimiento; si tiene tiempo suficiente, puede relajarse en los espacios verdes y experimentar la cultura local. Finalmente, explore las áreas circundantes de Puerto España y sienta el encanto de la capital de Trinidad y Tobago."
+  },
+  "officialManagement": {
+    "title": "Acerca del Queen's Park Savannah",
+    "text": "El Queen's Park Savannah es un famoso parque público en Puerto España, que cuenta con hermosos paisajes verdes y un rico valor cultural. Está dirigido y mantenido por las autoridades pertinentes de Trinidad y Tobago."
   },
   "cookieSettings": {
     "title": "Configuración de Cookies",
@@ -352,34 +375,5 @@
     },
     "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
     "rejectAll": "Rechazar Todas"
-  },
-  "officialManagement": {
-    "title": "Acerca del Queen's Park Savannah",
-    "text": "El Queen's Park Savannah es un famoso parque público en Puerto España, que cuenta con hermosos paisajes verdes y un rico valor cultural. Está dirigido y mantenido por las autoridades pertinentes de Trinidad y Tobago."
-  },
-  "historyTimeline": {
-    "title": "Cronología Histórica",
-    "items": [
-      {
-        "year": "Período Inicial",
-        "title": "Período Inicial: Establecimiento del Parque",
-        "plaque": "Espacio Público (Parque)",
-        "description": "El Queen's Park Savannah fue establecido como un espacio recreativo público para los ciudadanos de Puerto España, y ha sido considerado durante mucho tiempo como un importante lugar de reunión por los residentes locales."
-      },
-      {
-        "year": "Siglo XX",
-        "title": "Siglo XX: Mejora de Instalaciones",
-        "plaque": "Desarrollo Urbano (Mejora del Parque)",
-        "description": "Con el desarrollo de Puerto España, el Savannah mejoró gradualmente sus instalaciones, convirtiéndose en un lugar importante para el esparcimiento y eventos culturales de los ciudadanos."
-      },
-      {
-        "year": "Siglo XXI",
-        "title": "Siglo XXI: Hito Cultural",
-        "plaque": "Identidad Cultural (Espacio Público)",
-        "description": "Al entrar en el siglo XXI, con su hermoso ambiente y conveniente ubicación, ha atraído a más visitantes y se ha convertido en un espacio cultural icónico en Puerto España."
-      }
-    ],
-    "guideTitle": "Consejo de Guía para Visitantes",
-    "guideContent": "Al visitar, puede ingresar al Savannah desde Queen's Park East; luego camine alrededor del perímetro y disfrute del paisaje y el ambiente de esparcimiento; si tiene tiempo suficiente, puede relajarse en los espacios verdes y experimentar la cultura local. Finalmente, explore las áreas circundantes de Puerto España y sienta el encanto de la capital de Trinidad y Tobago."
   }
 }

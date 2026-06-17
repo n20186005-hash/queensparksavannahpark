@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Queen's Park Savannah | Port of Spain, Trinidad and Tobago",
-    "description": "Explore Queen's Park Savannah, the largest open space in Port of Spain, Trinidad and Tobago. A historic park and recreational area perfect for walking, sports, and cultural events."
+    "title": "Queen's Park Savannah | Port of Spain's Oasis & Carnival Epicenter",
+    "description": "Explore Queen's Park Savannah, the world's largest roundabout and the epicenter of Trinidad Carnival. Admire the Magnificent Seven historic buildings and enjoy local street food."
   },
   "header": {
     "home": "Home",
@@ -12,32 +12,30 @@
   },
   "hero": {
     "title": "Queen's Park Savannah",
-    "subtitle": "Port of Spain · Trinidad and Tobago",
+    "subtitle": "Trinidad's Green Lung, The Beating Heart of the Caribbean",
     "rating": "4.4",
     "reviewCount": "9,735",
-    "hours": "Public Park",
+    "hours": "Public Park / Historic Site / Carnival Center",
     "openMaps": "View Location"
   },
   "intro": {
     "title": "Explore Queen's Park Savannah",
-    "description": "Queen's Park Savannah is the largest open space in Port of Spain, Trinidad and Tobago. This historic park and recreational area is a popular destination for both locals and tourists, offering beautiful scenery and rich cultural significance.\n\nLocated at 11 Queen's Park E, the Savannah is surrounded by notable landmarks and serves as a central hub for recreational activities, cultural events, and community gatherings. With its vast green spaces and convenient location, it has become an iconic symbol of Trinidad and Tobago's capital city.",
+    "description": "As the 'green lung' of Port of Spain, Queen's Park Savannah is more than just a park—it's a microcosm of the Trinidadian lifestyle. From local residents jogging in the early morning to the lively food vendors at night, and the costumed dancers during Carnival, this place beats with the most passionate pulse of the Caribbean.\n\nFormerly the St. Clair Estate, it was purchased by the Town Council from the Peschier family in 1817 and retained as a public recreation ground. Today, with a perimeter of about 3.5 kilometers (2.2 miles), the one-way road surrounding it effectively forms the world's largest traffic roundabout.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
-        "The park is open daily with free admission",
-        "Early morning and late afternoon are the best times to visit",
-        "Comfortable walking shoes are recommended",
-        "Bring a camera to capture the beautiful scenery",
-        "Carry water and sun protection"
+        "🌞 Morning Energy Tour: Jogging ➔ Visit the Royal Botanic Gardens to the north ➔ Drink fresh coconut water",
+        "🌙 Evening Culture Tour: Architectural photography ➔ Enjoy the sunset ➔ Taste local street food at the southern night market",
+        "🎉 Festival Experience: If possible, visit during Carnival (usually February or March)"
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Vast Green Space: The Savannah offers expansive lawns and walking paths, perfect for exercise and relaxation.",
-        "Cultural Hub: Host to numerous cultural events, festivals, and celebrations throughout the year.",
-        "Historic Significance: Surrounded by heritage sites and colonial-era architecture.",
-        "Recreational Activities: Ideal for walking, jogging, cricket, and family outings."
+        "🔄 World's Largest Roundabout: A 3.5km one-way perimeter road, a paradise for joggers and fitness enthusiasts.",
+        "🏰 The Magnificent Seven: Seven famous Victorian-era colonial buildings line the western side of the park, perfect for photography.",
+        "🎭 Carnival Epicenter: The main stage for the world-famous Trinidad Carnival, hosting various cultural events year-round.",
+        "🍢 Night Market Food: Taste local street food (like Doubles, Bake and Shark, Corn Soup) at the southern stalls after sunset."
       ]
     }
   },
@@ -45,16 +43,16 @@
     "title": "Tour Route",
     "overview": "The ideal route to explore Queen's Park Savannah:",
     "steps": [
-      "Enter the Savannah from Queen's Park East.",
-      "Walk along the perimeter and enjoy the scenic views.",
-      "Visit the nearby landmarks and cultural sites.",
-      "Relax in the green spaces and experience local life."
+      "Start your morning exploring the Royal Botanic Gardens and Emperor Valley Zoo on the north side.",
+      "Stroll along the western edge to admire and photograph the famous 'Magnificent Seven'.",
+      "Relax on the vast lawns and grab a fresh coconut water from a local vendor.",
+      "After sunset, head to the food stalls on the southern end for authentic Trinidadian street food."
     ],
     "supplementsTitle": "Additional Tour Tips",
     "supplements": [
-      "Visit during daylight hours for the best experience.",
-      "Check for local events and festivals that may be happening.",
-      "Respect the park environment and dispose of trash properly."
+      "Parking around the perimeter can be difficult during holidays; taking a taxi is recommended.",
+      "Expect major road closures and crowds during Carnival season; plan ahead.",
+      "When trying street food, don't forget to sample the local slightly spicy sauces."
     ]
   },
   "knowledge": {
@@ -62,27 +60,27 @@
     "sections": [
       {
         "id": "history",
-        "title": "Historical Significance",
-        "content": "Queen's Park Savannah is a historic landmark in Port of Spain, serving as a central gathering place and recreational area for over a century."
+        "title": "Historical Evolution",
+        "content": "Formerly the St. Clair sugar estate, the Town Council bought the land in 1817 as a green space, witnessing Port of Spain's growth from the colonial era to a modern city."
       },
       {
         "id": "nature",
-        "title": "Park Landscape",
-        "content": "Features beautiful green spaces and open areas, making it an excellent place to experience the natural beauty of Trinidad and Tobago."
+        "title": "World's Largest Roundabout",
+        "content": "Covering about 260 acres, the Savannah is encircled by a 3.5-kilometer one-way road, considered the largest traffic roundabout in the world."
       },
       {
         "id": "experience",
-        "title": "Visiting Experience",
-        "content": "Walking through Queen's Park Savannah, feeling the vibrant atmosphere and beautiful scenery, is an unforgettable experience in Trinidad and Tobago's capital."
+        "title": "Soul of Caribbean Carnival",
+        "content": "This is the epicenter of one of the world's largest carnivals—Trinidad Carnival. The Grand Stand has witnessed countless calypso competitions and parade of the bands."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
+    "title": "Quick Facts",
     "officialName": "Official Name",
     "officialNameValue": "Queen's Park Savannah",
     "type": "Attraction Type",
-    "typeValue": "Public Park",
+    "typeValue": "Public Park / Historic Site / Carnival Center",
     "country": "Country",
     "countryValue": "Trinidad and Tobago",
     "city": "City",
@@ -95,34 +93,34 @@
     "phone": "Phone",
     "phoneValue": "+1 868-622-1670",
     "petFriendly": "Pet Friendly",
-    "petFriendlyValue": "Pets allowed in designated areas",
+    "petFriendlyValue": "Pets allowed",
     "tickets": "Tickets",
-    "ticketsValue": "Free admission"
+    "ticketsValue": "Free admission all day"
   },
   "hours": {
-    "title": "Opening Hours",
+    "title": "Opening Hours & Visitor Info",
     "outdoor": "Park Access",
     "outdoorTime": "Open daily, 24 hours",
     "lighthouse": "Best Visiting Time",
-    "summer": "Morning/Afternoon",
-    "summerTime": "Early morning and late afternoon recommended",
-    "winter": "Facilities",
-    "winterTime": "Various recreational facilities available",
-    "warning": "Important Notes",
-    "warningTime": "Check for special events that may affect access",
-    "tip": "Daytime visits offer the best experience"
+    "summer": "Morning/Evening",
+    "summerTime": "Mornings for exercise, evenings for night market food",
+    "winter": "Highlights",
+    "winterTime": "Magnificent Seven, Night Market, Carnival Grand Stand",
+    "warning": "💡 Local Insider Tip",
+    "warningTime": "You must visit the food strip on the southern side after sunset. Try Doubles and corn soup—it's the ultimate Trinidadian culinary experience!",
+    "tip": "The western walkway offers the best vantage point for photographing the famous 'Magnificent Seven'."
   },
   "tickets": {
     "title": "Important Information",
     "outdoor": "Entrance Fee",
-    "outdoorPrice": "Free admission (subject to on-site confirmation)",
+    "outdoorPrice": "Free admission",
     "lighthouse": "Parking Information",
-    "adults": "Parking Fee",
-    "adultsPrice": "Please refer to on-site information",
-    "students": "Other Fees",
-    "studentsPrice": "Please refer to official announcements",
-    "card": "Visitor Services",
-    "cardPrice": "On-site services may be available. Directions: 👉 [Go to Queen's Park Savannah]",
+    "adults": "Perimeter Parking",
+    "adultsPrice": "Street parking available, can be crowded on holidays",
+    "students": "Night Market Spending",
+    "studentsPrice": "Street food vendors usually accept cash only",
+    "card": "Nearby Attractions",
+    "cardPrice": "Botanic Gardens to the north, Magnificent Seven to the west. 👉 [Go to Queen's Park Savannah]",
     "officialNotice": "For the latest updates on events and related information, please refer to the",
     "officialNoticeLinkLabel": "Official Tourism Website",
     "officialNoticeLink": "https://visittrinidad.tt/"
@@ -130,41 +128,41 @@
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "From Piarco International Airport, take a taxi or drive to Port of Spain. The Savannah is easily accessible from the city center.",
+    "airportDesc": "From Piarco International Airport, a taxi ride to downtown Port of Spain takes about 40-50 minutes.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "The park is located in central Port of Spain. Use navigation to get there. Parking is available in surrounding areas.",
+    "selfDriveDesc": "The road around the park is a massive one-way roundabout (counter-clockwise). Please observe traffic signs and speed limits.",
     "bus": "Public Transport",
-    "busDesc": "You can take public transportation to the Savannah area. It is a well-known landmark in Port of Spain.",
+    "busDesc": "Most public transport and maxi-taxis in Port of Spain pass by or near the Savannah, making it highly accessible.",
     "intercity": "Walking",
-    "intercityDesc": "The Savannah is pedestrian-friendly with walking paths around the perimeter.",
+    "intercityDesc": "The park has a flat 3.5-kilometer perimeter, perfect for walking or jogging a full lap.",
     "cycling": "Other Means",
-    "cyclingDesc": "Taxis and maxi-taxis are readily available in Port of Spain.",
+    "cyclingDesc": "Rideshares or local taxis are very convenient options.",
     "tips": "Travel Tips",
-    "tipsDesc": "Queen's Park Savannah is an excellent place to experience the culture and lifestyle of Trinidad and Tobago. Daytime visits are recommended."
+    "tipsDesc": "Since it's the world's largest roundabout, if you miss your turn, you might have to drive the entire 3.5km loop again!"
   },
   "gallery": {
     "title": "Stunning Photos",
-    "subtitle": "The Charm of Queen's Park Savannah",
+    "subtitle": "Feel the Passionate Pulse of the Caribbean",
     "captions": [
       "Savannah panoramic view",
-      "Green landscape",
-      "Recreational area",
-      "Park scenery",
-      "Natural landscape",
-      "Walking paths",
-      "City view",
-      "Park features",
-      "Leisure atmosphere",
-      "Green space",
-      "Park culture",
-      "Full park view",
-      "Leisure style",
-      "Natural traces",
-      "Cultural landscape",
+      "Magnificent Seven buildings",
+      "Carnival celebrations",
+      "Night market street food",
+      "Morning joggers",
+      "Botanic Gardens entrance",
+      "Historic architecture",
+      "Expansive green lawns",
+      "Grand Stand events",
+      "Coconut water vendor",
+      "Colonial-era buildings",
+      "Savannah at dusk",
+      "Leisurely lifestyle",
       "Natural scenery",
-      "Park landscape",
-      "Recreational facilities",
-      "Green environment"
+      "Caribbean vibes",
+      "City landmark",
+      "Cultural gatherings",
+      "Sports activities",
+      "Green ecology"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Show All Photos"
@@ -178,49 +176,49 @@
         "name": "John Mitchell",
         "date": "1 month ago",
         "rating": 5,
-        "text": "A beautiful and spacious park in the heart of Port of Spain. Perfect for morning walks and family outings. The atmosphere is always vibrant."
+        "text": "The largest roundabout in the world! Eating Doubles here at night was my best experience in Trinidad."
       },
       {
         "name": "Maria Santos",
         "date": "2 weeks ago",
         "rating": 5,
-        "text": "Amazing open space with so much history. Great place to relax and enjoy the Trinidad breeze. A must-visit in Port of Spain."
+        "text": "Amazing open space with so much history. The Magnificent Seven on the west side are a must-see. A Port of Spain essential."
       },
       {
         "name": "David Thompson",
         "date": "3 weeks ago",
         "rating": 4,
-        "text": "Lovely park with lots of green space. Good for exercise and spending time outdoors. The surroundings are full of character."
+        "text": "Jogging here every morning feels great. Grabbing a fresh coconut water is the perfect way to start the day."
       },
       {
         "name": "Sarah Williams",
         "date": "Over 6 months ago",
         "rating": 5,
-        "text": "An iconic part of Port of Spain. The Savannah is perfect for cultural events and leisure. Beautiful and well-maintained."
+        "text": "During Carnival, this is absolutely the center of the world! The atmosphere is insane, and the Grand Stand shows are unforgettable."
       },
       {
         "name": "Michael Roberts",
         "date": "2 months ago",
         "rating": 4,
-        "text": "Great place to experience local life. The open spaces are wonderful and there's always something happening."
+        "text": "Great place to experience local life. The corn soup and Bake and Shark at the night market are delicious."
       },
       {
         "name": "Lisa Richardson",
         "date": "1 month ago",
         "rating": 5,
-        "text": "Beautiful park with a great atmosphere. The scenery is fantastic and it's a perfect spot for photos and relaxation."
+        "text": "Beautiful park, with the Royal Botanic Gardens right to the north. Fantastic scenery and a perfect spot for photos."
       },
       {
         "name": "Kevin James",
         "date": "3 months ago",
         "rating": 4,
-        "text": "Nice place to spend an afternoon. Lots of space to walk and enjoy the outdoors. Recommended for families."
+        "text": "Huge space, lots of families playing cricket here on weekends. The traffic around is busy, but it's peaceful inside the park."
       },
       {
         "name": "Jennifer Lewis",
         "date": "2 months ago",
         "rating": 5,
-        "text": "The crown jewel of Port of Spain. This park is an important place to understand Trinidad's culture and community spirit."
+        "text": "The crown jewel of Port of Spain. Not just a green space, but the best place to understand Trinidad's culture, history, and food."
       }
     ]
   },
@@ -298,14 +296,39 @@
         "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
       },
       {
-        "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
-      },
-      {
-        "heading": "5. Limitation of Liability",
-        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be liable for any direct or indirect damages arising from the use of this website or reliance on the information provided herein."
       }
     ]
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Early Period",
+        "title": "Early Period: Park Establishment",
+        "plaque": "Public Space (Park)",
+        "description": "Queen's Park Savannah was established as a public recreational space for the citizens of Port of Spain, and has long been regarded as an important gathering place by locals."
+      },
+      {
+        "year": "20th Century",
+        "title": "20th Century: Facility Improvement",
+        "plaque": "Urban Development (Park Enhancement)",
+        "description": "With the development of Port of Spain, the Savannah gradually improved its facilities, becoming an important place for citizens' leisure and cultural events."
+      },
+      {
+        "year": "21st Century",
+        "title": "21st Century: Cultural Landmark",
+        "plaque": "Cultural Identity (Public Space)",
+        "description": "Entering the 21st century, with its beautiful environment and convenient location, it has attracted more visitors and become an iconic cultural space in Port of Spain."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can enter the Savannah from Queen's Park East; then walk around the perimeter and enjoy the scenery and leisure atmosphere; if you have enough time, you can relax in the green spaces and experience the local culture. Finally, explore the surrounding areas of Port of Spain and feel the charm of Trinidad and Tobago's capital."
+  },
+  "officialManagement": {
+    "title": "About Queen's Park Savannah",
+    "text": "Queen's Park Savannah is a famous public park in Port of Spain, featuring beautiful green landscapes and rich cultural value. It is managed and maintained by the relevant authorities of Trinidad and Tobago."
   },
   "cookieSettings": {
     "title": "Cookie Settings",
@@ -352,34 +375,5 @@
     },
     "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
     "rejectAll": "Reject All"
-  },
-  "officialManagement": {
-    "title": "About Queen's Park Savannah",
-    "text": "Queen's Park Savannah is a famous public park in Port of Spain, featuring beautiful green landscapes and rich cultural value. It is managed and maintained by the relevant authorities of Trinidad and Tobago."
-  },
-  "historyTimeline": {
-    "title": "Historical Timeline",
-    "items": [
-      {
-        "year": "Early Period",
-        "title": "Early Period: Park Establishment",
-        "plaque": "Public Space (Park)",
-        "description": "Queen's Park Savannah was established as a public recreational space for the citizens of Port of Spain, and has long been regarded as an important gathering place by locals."
-      },
-      {
-        "year": "20th Century",
-        "title": "20th Century: Facility Improvement",
-        "plaque": "Urban Development (Park Enhancement)",
-        "description": "With the development of Port of Spain, the Savannah gradually improved its facilities, becoming an important place for citizens' leisure and cultural events."
-      },
-      {
-        "year": "21st Century",
-        "title": "21st Century: Cultural Landmark",
-        "plaque": "Cultural Identity (Public Space)",
-        "description": "Entering the 21st century, with its beautiful environment and convenient location, it has attracted more visitors and become an iconic cultural space in Port of Spain."
-      }
-    ],
-    "guideTitle": "Visitor Guide Tip",
-    "guideContent": "When visiting, you can enter the Savannah from Queen's Park East; then walk around the perimeter and enjoy the scenery and leisure atmosphere; if you have enough time, you can relax in the green spaces and experience the local culture. Finally, explore the surrounding areas of Port of Spain and feel the charm of Trinidad and Tobago's capital."
   }
 }
