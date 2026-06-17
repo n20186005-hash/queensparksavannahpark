@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "title": "Queen's Park Savannah | Port of Spain, Trinidad and Tobago",
+    "description": "Explore Queen's Park Savannah, the largest open space in Port of Spain, Trinidad and Tobago. A historic park and recreational area perfect for walking, sports, and cultural events."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Queen's Park Savannah",
+    "subtitle": "Port of Spain · Trinidad and Tobago",
+    "rating": "4.4",
+    "reviewCount": "9,735",
+    "hours": "Public Park",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Queen's Park Savannah",
+    "description": "Queen's Park Savannah is the largest open space in Port of Spain, Trinidad and Tobago. This historic park and recreational area is a popular destination for both locals and tourists, offering beautiful scenery and rich cultural significance.\n\nLocated at 11 Queen's Park E, the Savannah is surrounded by notable landmarks and serves as a central hub for recreational activities, cultural events, and community gatherings. With its vast green spaces and convenient location, it has become an iconic symbol of Trinidad and Tobago's capital city.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "The park is open daily with free admission",
+        "Early morning and late afternoon are the best times to visit",
+        "Comfortable walking shoes are recommended",
+        "Bring a camera to capture the beautiful scenery",
+        "Carry water and sun protection"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Vast Green Space: The Savannah offers expansive lawns and walking paths, perfect for exercise and relaxation.",
+        "Cultural Hub: Host to numerous cultural events, festivals, and celebrations throughout the year.",
+        "Historic Significance: Surrounded by heritage sites and colonial-era architecture.",
+        "Recreational Activities: Ideal for walking, jogging, cricket, and family outings."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "The ideal route to explore Queen's Park Savannah:",
+    "steps": [
+      "Enter the Savannah from Queen's Park East.",
+      "Walk along the perimeter and enjoy the scenic views.",
+      "Visit the nearby landmarks and cultural sites.",
+      "Relax in the green spaces and experience local life."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "Visit during daylight hours for the best experience.",
+      "Check for local events and festivals that may be happening.",
+      "Respect the park environment and dispose of trash properly."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Queen's Park Savannah",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Queen's Park Savannah is a historic landmark in Port of Spain, serving as a central gathering place and recreational area for over a century."
+      },
+      {
+        "id": "nature",
+        "title": "Park Landscape",
+        "content": "Features beautiful green spaces and open areas, making it an excellent place to experience the natural beauty of Trinidad and Tobago."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Walking through Queen's Park Savannah, feeling the vibrant atmosphere and beautiful scenery, is an unforgettable experience in Trinidad and Tobago's capital."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Queen's Park Savannah",
+    "type": "Attraction Type",
+    "typeValue": "Public Park",
+    "country": "Country",
+    "countryValue": "Trinidad and Tobago",
+    "city": "City",
+    "cityValue": "Port of Spain",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "11 Queen's Park E, Port of Spain, Trinidad and Tobago",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "MF9P+F7 Port of Spain, Trinidad and Tobago",
+    "phone": "Phone",
+    "phoneValue": "+1 868-622-1670",
+    "petFriendly": "Pet Friendly",
+    "petFriendlyValue": "Pets allowed in designated areas",
+    "tickets": "Tickets",
+    "ticketsValue": "Free admission"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Park Access",
+    "outdoorTime": "Open daily, 24 hours",
+    "lighthouse": "Best Visiting Time",
+    "summer": "Morning/Afternoon",
+    "summerTime": "Early morning and late afternoon recommended",
+    "winter": "Facilities",
+    "winterTime": "Various recreational facilities available",
+    "warning": "Important Notes",
+    "warningTime": "Check for special events that may affect access",
+    "tip": "Daytime visits offer the best experience"
+  },
+  "tickets": {
+    "title": "Important Information",
+    "outdoor": "Entrance Fee",
+    "outdoorPrice": "Free admission (subject to on-site confirmation)",
+    "lighthouse": "Parking Information",
+    "adults": "Parking Fee",
+    "adultsPrice": "Please refer to on-site information",
+    "students": "Other Fees",
+    "studentsPrice": "Please refer to official announcements",
+    "card": "Visitor Services",
+    "cardPrice": "On-site services may be available. Directions: 👉 [Go to Queen's Park Savannah]",
+    "officialNotice": "For the latest updates on events and related information, please refer to the",
+    "officialNoticeLinkLabel": "Official Tourism Website",
+    "officialNoticeLink": "https://visittrinidad.tt/"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "From Piarco International Airport, take a taxi or drive to Port of Spain. The Savannah is easily accessible from the city center.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "The park is located in central Port of Spain. Use navigation to get there. Parking is available in surrounding areas.",
+    "bus": "Public Transport",
+    "busDesc": "You can take public transportation to the Savannah area. It is a well-known landmark in Port of Spain.",
+    "intercity": "Walking",
+    "intercityDesc": "The Savannah is pedestrian-friendly with walking paths around the perimeter.",
+    "cycling": "Other Means",
+    "cyclingDesc": "Taxis and maxi-taxis are readily available in Port of Spain.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Queen's Park Savannah is an excellent place to experience the culture and lifestyle of Trinidad and Tobago. Daytime visits are recommended."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Queen's Park Savannah",
+    "captions": [
+      "Savannah panoramic view",
+      "Green landscape",
+      "Recreational area",
+      "Park scenery",
+      "Natural landscape",
+      "Walking paths",
+      "City view",
+      "Park features",
+      "Leisure atmosphere",
+      "Green space",
+      "Park culture",
+      "Full park view",
+      "Leisure style",
+      "Natural traces",
+      "Cultural landscape",
+      "Natural scenery",
+      "Park landscape",
+      "Recreational facilities",
+      "Green environment"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "John Mitchell",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "A beautiful and spacious park in the heart of Port of Spain. Perfect for morning walks and family outings. The atmosphere is always vibrant."
+      },
+      {
+        "name": "Maria Santos",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "Amazing open space with so much history. Great place to relax and enjoy the Trinidad breeze. A must-visit in Port of Spain."
+      },
+      {
+        "name": "David Thompson",
+        "date": "3 weeks ago",
+        "rating": 4,
+        "text": "Lovely park with lots of green space. Good for exercise and spending time outdoors. The surroundings are full of character."
+      },
+      {
+        "name": "Sarah Williams",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "An iconic part of Port of Spain. The Savannah is perfect for cultural events and leisure. Beautiful and well-maintained."
+      },
+      {
+        "name": "Michael Roberts",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Great place to experience local life. The open spaces are wonderful and there's always something happening."
+      },
+      {
+        "name": "Lisa Richardson",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Beautiful park with a great atmosphere. The scenery is fantastic and it's a perfect spot for photos and relaxation."
+      },
+      {
+        "name": "Kevin James",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Nice place to spend an afternoon. Lots of space to walk and enjoy the outdoors. Recommended for families."
+      },
+      {
+        "name": "Jennifer Lewis",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "The crown jewel of Port of Spain. This park is an important place to understand Trinidad's culture and community spirit."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "11 Queen's Park E, Port of Spain, Trinidad and Tobago",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Queen's Park Savannah. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Links",
+    "officialLinks": {
+      "visittrinidad": {
+        "name": "Trinidad and Tobago Tourism - Attractions Guide",
+        "url": "https://visittrinidad.tt/things-to-do/sites-attractions/queens-park-savannah/"
+      },
+      "agriculture": {
+        "name": "Ministry of Agriculture - Horticulture Services",
+        "url": "https://agriculture.gov.tt/divisions-units/divisions/horticulture-services/"
+      },
+      "ema": {
+        "name": "Environmental Management Authority",
+        "url": "https://www.ema.co.tt/"
+      },
+      "mscd": {
+        "name": "Ministry of Sport and Community Development",
+        "url": "https://mscd.gov.tt/"
+      },
+      "nationaltrust": {
+        "name": "National Trust of Trinidad and Tobago",
+        "url": "https://nationaltrust.tt/location/queens-park-savannah/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Queen's Park Savannah",
+    "text": "Queen's Park Savannah is a famous public park in Port of Spain, featuring beautiful green landscapes and rich cultural value. It is managed and maintained by the relevant authorities of Trinidad and Tobago."
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Early Period",
+        "title": "Early Period: Park Establishment",
+        "plaque": "Public Space (Park)",
+        "description": "Queen's Park Savannah was established as a public recreational space for the citizens of Port of Spain, and has long been regarded as an important gathering place by locals."
+      },
+      {
+        "year": "20th Century",
+        "title": "20th Century: Facility Improvement",
+        "plaque": "Urban Development (Park Enhancement)",
+        "description": "With the development of Port of Spain, the Savannah gradually improved its facilities, becoming an important place for citizens' leisure and cultural events."
+      },
+      {
+        "year": "21st Century",
+        "title": "21st Century: Cultural Landmark",
+        "plaque": "Cultural Identity (Public Space)",
+        "description": "Entering the 21st century, with its beautiful environment and convenient location, it has attracted more visitors and become an iconic cultural space in Port of Spain."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can enter the Savannah from Queen's Park East; then walk around the perimeter and enjoy the scenery and leisure atmosphere; if you have enough time, you can relax in the green spaces and experience the local culture. Finally, explore the surrounding areas of Port of Spain and feel the charm of Trinidad and Tobago's capital."
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "title": "Queen's Park Savannah | Puerto España, Trinidad y Tobago",
+    "description": "Explora el Queen's Park Savannah, el espacio abierto más grande de Puerto España, Trinidad y Tobago. Un parque histórico y área recreativa perfecta para caminar, deportes y eventos culturales."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Queen's Park Savannah",
+    "subtitle": "Puerto España · Trinidad y Tobago",
+    "rating": "4.4",
+    "reviewCount": "9,735",
+    "hours": "Parque Público",
+    "openMaps": "Ver Ubicación"
+  },
+  "intro": {
+    "title": "Explora el Queen's Park Savannah",
+    "description": "El Queen's Park Savannah es el espacio abierto más grande de Puerto España, Trinidad y Tobago. Este parque histórico y área recreativa es un destino popular tanto para locales como para turistas, ofreciendo hermosos paisajes y rica significancia cultural.\n\nUbicado en el 11 de Queen's Park E, el Savannah está rodeado por hitos notables y sirve como un centro para actividades recreativas, eventos culturales y reuniones comunitarias. Con sus vastos espacios verdes y ubicación conveniente, se ha convertido en un símbolo icónico de la ciudad capital de Trinidad y Tobago.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "El parque está abierto diariamente con entrada gratuita",
+        "La mañana temprano y la tarde son los mejores momentos para visitar",
+        "Se recomienda usar calzado cómodo para caminar",
+        "Lleva una cámara para capturar los hermosos paisajes",
+        "Lleva agua y protección solar"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Vasto Espacio Verde: El Savannah ofrece amplios céspedes y senderos para caminar, perfecto para ejercicio y relajación.",
+        "Centro Cultural: Anfitrión de numerosos eventos culturales, festivales y celebraciones durante todo el año.",
+        "Significancia Histórica: Rodeado por sitios de patrimonio y arquitectura de la era colonial.",
+        "Actividades Recreativas: Ideal para caminar, trotar, cricket y salidas familiares."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta de Visita",
+    "overview": "La ruta ideal para explorar el Queen's Park Savannah:",
+    "steps": [
+      "Ingrese al Savannah desde Queen's Park East.",
+      "Camine alrededor del perímetro y disfrute de las vistas escénicas.",
+      "Visite los hitos cercanos y sitios culturales.",
+      "Relájese en los espacios verdes y experimente la vida local."
+    ],
+    "supplementsTitle": "Consejos Adicionales de Visita",
+    "supplements": [
+      "Visite durante el día para la mejor experiencia.",
+      "Verifique si hay eventos locales y festivales que puedan estar ocurriendo.",
+      "Respete el ambiente del parque y deshágase adecuadamente de la basura."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto del Queen's Park Savannah",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Importancia Histórica",
+        "content": "El Queen's Park Savannah es un hito histórico en Puerto España, que sirve como lugar de reunión central y área recreativa desde hace más de un siglo."
+      },
+      {
+        "id": "nature",
+        "title": "Paisaje del Parque",
+        "content": "Cuenta con hermosos espacios verdes y áreas abiertas, lo que lo convierte en un lugar excelente para experimentar la belleza natural de Trinidad y Tobago."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de Visita",
+        "content": "Caminar por el Queen's Park Savannah, sentir el ambiente vibrante y el hermoso paisaje, es una experiencia inolvidable en la capital de Trinidad y Tobago."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Queen's Park Savannah",
+    "type": "Tipo de atracción",
+    "typeValue": "Parque Público",
+    "country": "País",
+    "countryValue": "Trinidad y Tobago",
+    "city": "Ciudad",
+    "cityValue": "Puerto España",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "11 Queen's Park E, Puerto España, Trinidad y Tobago",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "MF9P+F7 Puerto España, Trinidad y Tobago",
+    "phone": "Teléfono",
+    "phoneValue": "+1 868-622-1670",
+    "petFriendly": "Mascotas permitidas",
+    "petFriendlyValue": "Se admiten mascotas en áreas designadas",
+    "tickets": "Entradas",
+    "ticketsValue": "Entrada gratuita"
+  },
+  "hours": {
+    "title": "Horarios de Apertura",
+    "outdoor": "Acceso al Parque",
+    "outdoorTime": "Abierto todos los días, 24 horas",
+    "lighthouse": "Mejor Momento de Visita",
+    "summer": "Mañana/Tarde",
+    "summerTime": "Se recomienda la mañana temprano y la tarde",
+    "winter": "Instalaciones",
+    "winterTime": "Varias instalaciones recreativas disponibles",
+    "warning": "Notas Importantes",
+    "warningTime": "Verifique si hay eventos especiales que puedan afectar el acceso",
+    "tip": "Las visitas diurnas ofrecen la mejor experiencia"
+  },
+  "tickets": {
+    "title": "Información Importante",
+    "outdoor": "Tarifa de Entrada",
+    "outdoorPrice": "Entrada gratuita (sujeto a confirmación en el lugar)",
+    "lighthouse": "Información de Parqueo",
+    "adults": "Tarifa de Parqueo",
+    "adultsPrice": "Por favor consulte la información en el lugar",
+    "students": "Otros Cargos",
+    "studentsPrice": "Por favor consulte los anuncios oficiales",
+    "card": "Servicios a Visitantes",
+    "cardPrice": "Pueden haber servicios disponibles en el lugar. Indicaciones: 👉 [Ir a Queen's Park Savannah]",
+    "officialNotice": "Para obtener las últimas actualizaciones sobre eventos e información relacionada, consulte el",
+    "officialNoticeLinkLabel": "Sitio Web Oficial de Turismo",
+    "officialNoticeLink": "https://visittrinidad.tt/"
+  },
+  "transport": {
+    "title": "Transporte",
+    "airport": "Desde el Aeropuerto",
+    "airportDesc": "Desde el Aeropuerto Internacional de Piarco, tome un taxi o maneje hasta Puerto España. El Savannah es fácilmente accesible desde el centro de la ciudad.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "El parque está ubicado en el centro de Puerto España. Use navegación para llegar. Hay parqueo disponible en las áreas circundantes.",
+    "bus": "Transporte Público",
+    "busDesc": "Puede tomar transporte público hasta el área del Savannah. Es un hito bien conocido en Puerto España.",
+    "intercity": "Caminando",
+    "intercityDesc": "El Savannah es amigable para peatones con senderos de caminata alrededor del perímetro.",
+    "cycling": "Otros Medios",
+    "cyclingDesc": "Los taxis y maxi-taxis están fácilmente disponibles en Puerto España.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "El Queen's Park Savannah es un lugar excelente para experimentar la cultura y el estilo de vida de Trinidad y Tobago. Se recomiendan las visitas diurnas."
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "El Encanto del Queen's Park Savannah",
+    "captions": [
+      "Vista panorámica del parque",
+      "Paisaje verde",
+      "Área recreativa",
+      "Paisaje del parque",
+      "Paisaje natural",
+      "Senderos para caminatas",
+      "Vista de la ciudad",
+      "Características del parque",
+      "Ambiente de esparcimiento",
+      "Espacio verde",
+      "Cultura del parque",
+      "Vista completa del parque",
+      "Estilo de esparcimiento",
+      "Rastros naturales",
+      "Paisaje cultural",
+      "Paisaje natural",
+      "Paisaje del parque",
+      "Instalaciones recreativas",
+      "Ambiente verde"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "John Mitchell",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Un parque hermoso y espacioso en el corazón de Puerto España. Perfecto para caminatas matutinas y salidas familiares. El ambiente siempre es vibrante."
+      },
+      {
+        "name": "Maria Santos",
+        "date": "hace 2 semanas",
+        "rating": 5,
+        "text": "Amazing espacio abierto con tanta historia. Un gran lugar para relajarse y disfrutar de la brisa de Trinidad. Un lugar imperdible en Puerto España."
+      },
+      {
+        "name": "David Thompson",
+        "date": "hace 3 semanas",
+        "rating": 4,
+        "text": "Lindo parque con mucho espacio verde. Bueno para hacer ejercicio y pasar tiempo al aire libre. Los alrededores están llenos de carácter."
+      },
+      {
+        "name": "Sarah Williams",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "Una parte icónica de Puerto España. El Savannah es perfecto para eventos culturales y ocio. Hermoso y bien mantenido."
+      },
+      {
+        "name": "Michael Roberts",
+        "date": "hace 2 meses",
+        "rating": 4,
+        "text": "Un gran lugar para experimentar la vida local. Los espacios abiertos son maravillosos y siempre hay algo pasando."
+      },
+      {
+        "name": "Lisa Richardson",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Hermoso parque con un gran ambiente. El paisaje es fantástico y es un lugar perfecto para fotos y relajación."
+      },
+      {
+        "name": "Kevin James",
+        "date": "hace 3 meses",
+        "rating": 4,
+        "text": "Buen lugar para pasar una tarde. Mucho espacio para caminar y disfrutar del aire libre. Recomendado para familias."
+      },
+      {
+        "name": "Jennifer Lewis",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "La joya de la corona de Puerto España. Este parque es un lugar importante para comprender la cultura y el espíritu comunitario de Trinidad."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y Mapa",
+    "subtitle": "11 Queen's Park E, Puerto España, Trinidad y Tobago",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Queen's Park Savannah. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales y Enlaces",
+    "officialLinks": {
+      "visittrinidad": {
+        "name": "Turismo de Trinidad y Tobago - Guía de Atracciones",
+        "url": "https://visittrinidad.tt/things-to-do/sites-attractions/queens-park-savannah/"
+      },
+      "agriculture": {
+        "name": "Ministerio de Agricultura - Servicios de Horticultura",
+        "url": "https://agriculture.gov.tt/divisions-units/divisions/horticulture-services/"
+      },
+      "ema": {
+        "name": "Autoridad de Gestión Ambiental",
+        "url": "https://www.ema.co.tt/"
+      },
+      "mscd": {
+        "name": "Ministerio de Deportes y Desarrollo Comunitario",
+        "url": "https://mscd.gov.tt/"
+      },
+      "nationaltrust": {
+        "name": "Fideicomiso Nacional de Trinidad y Tobago",
+        "url": "https://nationaltrust.tt/location/queens-park-savannah/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad Intelectual",
+        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. Las imágenes provienen de Unsplash y se utilizan bajo licencia. El uso de datos de Google Maps cumple con los términos de servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona \"tal como está\" sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo, entre otros, las decisiones de viaje basadas en su contenido."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  },
+  "officialManagement": {
+    "title": "Acerca del Queen's Park Savannah",
+    "text": "El Queen's Park Savannah es un famoso parque público en Puerto España, que cuenta con hermosos paisajes verdes y un rico valor cultural. Está dirigido y mantenido por las autoridades pertinentes de Trinidad y Tobago."
+  },
+  "historyTimeline": {
+    "title": "Cronología Histórica",
+    "items": [
+      {
+        "year": "Período Inicial",
+        "title": "Período Inicial: Establecimiento del Parque",
+        "plaque": "Espacio Público (Parque)",
+        "description": "El Queen's Park Savannah fue establecido como un espacio recreativo público para los ciudadanos de Puerto España, y ha sido considerado durante mucho tiempo como un importante lugar de reunión por los residentes locales."
+      },
+      {
+        "year": "Siglo XX",
+        "title": "Siglo XX: Mejora de Instalaciones",
+        "plaque": "Desarrollo Urbano (Mejora del Parque)",
+        "description": "Con el desarrollo de Puerto España, el Savannah mejoró gradualmente sus instalaciones, convirtiéndose en un lugar importante para el esparcimiento y eventos culturales de los ciudadanos."
+      },
+      {
+        "year": "Siglo XXI",
+        "title": "Siglo XXI: Hito Cultural",
+        "plaque": "Identidad Cultural (Espacio Público)",
+        "description": "Al entrar en el siglo XXI, con su hermoso ambiente y conveniente ubicación, ha atraído a más visitantes y se ha convertido en un espacio cultural icónico en Puerto España."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puede ingresar al Savannah desde Queen's Park East; luego camine alrededor del perímetro y disfrute del paisaje y el ambiente de esparcimiento; si tiene tiempo suficiente, puede relajarse en los espacios verdes y experimentar la cultura local. Finalmente, explore las áreas circundantes de Puerto España y sienta el encanto de la capital de Trinidad y Tobago."
+  }
+}
