@@ -576,5 +576,35 @@
       }
     ],
     "note": "All descriptions above refer to facility types only and are kept intentionally neutral and objective; nothing on this page should be read as a recommendation of any specific business."
+  },
+  "thingsToDo": {
+    "title": "Top Things to Do at Queen's Park Savannah",
+    "subtitle": "How most visitors spend their day in Port of Spain's favourite open space.",
+    "items": [
+      {
+        "t": "Sip fresh coconut water and try street food",
+        "d": "Coconut water, Doubles and Bake and Shark are sold by vendors along the southern edge of the park."
+      },
+      {
+        "t": "Photograph the Magnificent Seven",
+        "d": "The historic colonial mansions lining the western side are among the most photographed landmarks in Port of Spain."
+      },
+      {
+        "t": "Walk or jog the world's largest roundabout",
+        "d": "The one-way road around the Savannah forms a 3.5 km (2.2-mile) loop, a favourite route for local runners and walkers."
+      },
+      {
+        "t": "Visit the Royal Botanic Gardens and Emperor Valley Zoo",
+        "d": "Both sit just next door on the northern edge, so you can combine them with the same outing."
+      },
+      {
+        "t": "Browse the night food market",
+        "d": "After sunset, stalls on the south side serve Doubles, Corn Soup and other Trinidadian street-food classics."
+      },
+      {
+        "t": "Relax on the lawns or catch Carnival",
+        "d": "The park is free and open 24 hours, and it becomes the epicentre of Trinidad Carnival in February and March."
+      }
+    ]
   }
 }

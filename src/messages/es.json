@@ -576,5 +576,35 @@
       }
     ],
     "note": "Todas las descripciones anteriores se refieren solo a tipos de instalaciones y se mantienen deliberadamente neutrales y objetivas; nada en esta página debe leerse como una recomendación de ningún negocio específico."
+  },
+  "thingsToDo": {
+    "title": "Qué hacer en Queen's Park Savannah",
+    "subtitle": "Así pasan el día la mayoría de los visitantes en el espacio abierto favorito de Puerto España.",
+    "items": [
+      {
+        "t": "Prueba agua de coco y comida callejera",
+        "d": "Coco fresco, Doubles y Bake and Shark se venden en los puestos del borde sur del parque."
+      },
+      {
+        "t": "Fotografía los Siete Magníficos",
+        "d": "Las mansiones coloniales históricas del lado oeste están entre los lugares más fotografiados de Puerto España."
+      },
+      {
+        "t": "Camina o corre por la rotonda más grande del mundo",
+        "d": "La carretera de un solo sentido alrededor del Savannah forma un circuito de 3,5 km, muy popular entre corredores y paseantes."
+      },
+      {
+        "t": "Visita los Jardines Botánicos Reales y el zoológico Emperor Valley",
+        "d": "Ambos están justo al lado, en el borde norte; puedes combinarlos en la misma salida."
+      },
+      {
+        "t": "Recorre el mercado nocturno del sur",
+        "d": "Al anochecer, los puestos del lado sur sirven Doubles, sopa de maíz y otros clásicos de la comida callejera de Trinidad."
+      },
+      {
+        "t": "Relájate en el césped o vive el Carnaval",
+        "d": "El parque es gratuito y abre 24 horas, y se convierte en el epicentro del Carnaval de Trinidad en febrero y marzo."
+      }
+    ]
   }
 }
