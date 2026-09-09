@@ -3,6 +3,7 @@ import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import AboutSection from '@/components/AboutSection';
 import Intro from '@/components/Intro';
+import TopThingsSection from '@/components/TopThingsSection';
 import BasicInfo from '@/components/BasicInfo';
 import HistoryTimeline from '@/components/HistoryTimeline';
 import RouteSection from '@/components/RouteSection';
@@ -33,6 +34,7 @@ export default async function HomePage({
         <Hero />
         <AboutSection />
         <Intro />
+        <TopThingsSection />
         <BasicInfo />
         <HistoryTimeline />
         <RouteSection />
