@@ -4,11 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node ./scripts/build.mjs",
+    "build:next": "next build",
     "start": "next start",
     "lint": "next lint",
-    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
-    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy"
+    "preview": "node ./scripts/build.mjs && opennextjs-cloudflare preview",
+    "deploy": "node ./scripts/build.mjs && opennextjs-cloudflare deploy"
   },
   "dependencies": {
     "next": "^15.1.0",
