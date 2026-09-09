@@ -40,3 +40,7 @@ next-env.d.ts
 
 # OS
 Thumbs.db
+
+# OpenNext / Cloudflare
+/.open-next/
+.wrangler
