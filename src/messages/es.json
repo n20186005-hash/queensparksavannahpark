@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Queen's Park Savannah | El Oasis de Puerto España y Epicentro del Carnaval",
-    "description": "Explora el Queen's Park Savannah, la rotonda más grande del mundo y el escenario principal del Carnaval de Trinidad. Admira los Siete Magníficos y disfruta de la comida callejera nocturna."
+    "title": "Queen's Park Savannah (Puerto España) - Guía del Visitante y Ubicación",
+    "description": "Descubre el Queen's Park Savannah, el emblemático parque y la rotonda más grande del mundo en Puerto España, Trinidad y Tobago. Consulta el mapa de ubicación, los horarios, los Jardines Botánicos Reales y los Siete Magníficos cercanos, además de consejos de viaje."
   },
   "header": {
     "home": "Inicio",
@@ -11,10 +11,10 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Queen's Park Savannah",
+    "title": "Queen's Park Savannah (Puerto España)",
     "subtitle": "El pulmón verde de Trinidad, el latido del Caribe",
     "rating": "4.4",
-    "reviewCount": "9,735",
+    "reviewCount": "9,778",
     "hours": "Parque Urbano / Sitio Histórico / Centro del Carnaval",
     "openMaps": "Ver Ubicación"
   },
@@ -89,7 +89,7 @@
     "address": "Dirección",
     "addressValue": "11 Queen's Park E, Puerto España, Trinidad y Tobago",
     "plusCode": "Código Plus",
-    "plusCodeValue": "MF9P+F7 Puerto España, Trinidad y Tobago",
+    "plusCodeValue": "MF9P+97 Puerto España, Trinidad y Tobago",
     "phone": "Teléfono",
     "phoneValue": "+1 868-622-1670",
     "petFriendly": "Mascotas permitidas",
@@ -165,7 +165,8 @@
       "Ecología verde"
     ],
     "viewAll": "Ver más fotos en Google Maps",
-    "showAllPhotos": "Mostrar Todas las Fotos"
+    "showAllPhotos": "Mostrar Todas las Fotos",
+    "credit": "Todas las imágenes mostradas en este sitio web pertenecen a sus respectivos fotógrafos, y los derechos de autor permanecen en sus autores originales."
   },
   "reviews": {
     "title": "Reseñas de Visitantes",
@@ -223,7 +224,7 @@
     ]
   },
   "mapSection": {
-    "title": "Ubicación y Mapa",
+    "title": "Ubicación y Cómo Visitar el Savannah en Puerto España",
     "subtitle": "11 Queen's Park E, Puerto España, Trinidad y Tobago",
     "openMaps": "Ver en Google Maps"
   },
@@ -255,7 +256,8 @@
         "url": "https://nationaltrust.tt/location/queens-park-savannah/"
       }
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "imageCredit": "Créditos de imagen: todas las fotos mostradas en este sitio web pertenecen a sus fotógrafos originales, y sus derechos de autor permanecen en sus respectivos dueños."
   },
   "privacy": {
     "title": "Política de Privacidad",
@@ -302,32 +304,55 @@
     ]
   },
   "historyTimeline": {
-    "title": "Cronología Histórica",
+    "title": "Historia y Significado del Queen's Park Savannah",
     "items": [
       {
-        "year": "Período Inicial",
-        "title": "Período Inicial: Establecimiento del Parque",
-        "plaque": "Espacio Público (Parque)",
-        "description": "El Queen's Park Savannah fue establecido como un espacio recreativo público para los ciudadanos de Puerto España, y ha sido considerado durante mucho tiempo como un importante lugar de reunión por los residentes locales."
+        "year": "1817",
+        "title": "De Hacienda Azucarera a Terreno Público de Recreo",
+        "plaque": "Orígenes e Historia Temprana",
+        "description": "El terreno bajo que se convertiría en el Savannah comenzó como parte de la hacienda St. Clair. En 1817, el Ayuntamiento de Puerto España compró las tierras a la familia Peschier y las conservó como zona pública de recreo, abierta a todos los habitantes de la joven capital."
       },
       {
-        "year": "Siglo XX",
-        "title": "Siglo XX: Mejora de Instalaciones",
-        "plaque": "Desarrollo Urbano (Mejora del Parque)",
-        "description": "Con el desarrollo de Puerto España, el Savannah mejoró gradualmente sus instalaciones, convirtiéndose en un lugar importante para el esparcimiento y eventos culturales de los ciudadanos."
+        "year": "Siglo XIX",
+        "title": "Carreras, Pastos y Paseos",
+        "plaque": "Toma Forma el Espacio Común",
+        "description": "Durante el siglo XIX, este terreno abierto cumplió varios propósitos a la vez: pastizal común, plaza de armas y pista de carreras donde las primeras reuniones de caballos pura sangre reunían grandes multitudes. Mucho antes de ser ajardinado formalmente como parque, era simplemente el lugar donde la ciudad se reunía, competía y descansaba."
       },
       {
-        "year": "Siglo XXI",
-        "title": "Siglo XXI: Hito Cultural",
-        "plaque": "Identidad Cultural (Espacio Público)",
-        "description": "Al entrar en el siglo XXI, con su hermoso ambiente y conveniente ubicación, ha atraído a más visitantes y se ha convertido en un espacio cultural icónico en Puerto España."
+        "year": "C. 1900",
+        "title": "Los Siete Magníficos Nacen en el Borde Oeste",
+        "plaque": "Vitrina Arquitectónica",
+        "description": "A comienzos del siglo XX, cuando la riqueza del cacao transformó Trinidad, familias adineradas encargaron una célebre hilera de grandes mansiones a lo largo del límite occidental del Savannah. Cada casa anunciaba el éxito de su dueño con un lenguaje arquitectónico distinto (torres de castillo, columnas clásicas y fachadas ricamente ornamentadas), lo que hizo famoso al conjunto como Los Siete Magníficos."
+      },
+      {
+        "year": "Hoy",
+        "title": "Un Escenario Vivo de la Vida Nacional",
+        "plaque": "Carnaval, Deporte y Trinidad Cotidiana",
+        "description": "Hoy, la carretera de un solo sentido de 3.5 kilómetros que rodea el Savannah se describe popularmente como la rotonda de tráfico más grande del mundo. Dentro del anillo, los corredores entrenan al amanecer, las familias hacen picnic los fines de semana, los puestos de comida abren al anochecer y, cada temporada de Carnaval, el Gran Stand se convierte en el teatro de la nación trinitense."
       }
     ],
     "guideTitle": "Consejo de Guía para Visitantes",
-    "guideContent": "Al visitar, puede ingresar al Savannah desde Queen's Park East; luego camine alrededor del perímetro y disfrute del paisaje y el ambiente de esparcimiento; si tiene tiempo suficiente, puede relajarse en los espacios verdes y experimentar la cultura local. Finalmente, explore las áreas circundantes de Puerto España y sienta el encanto de la capital de Trinidad y Tobago."
+    "guideContent": "Al visitar, puede ingresar al Savannah desde Queen's Park East; luego camine alrededor del perímetro y disfrute del paisaje y el ambiente de esparcimiento; si tiene tiempo suficiente, puede relajarse en los espacios verdes y experimentar la cultura local. Finalmente, explore las áreas circundantes de Puerto España y sienta el encanto de la capital de Trinidad y Tobago.",
+    "loreTitle": "Historias, Leyendas y Saber Local",
+    "loreNote": "Los relatos siguientes forman parte del folclore vivo de Puerto España, transmitidos por los residentes a lo largo de generaciones y no extraídos de archivos oficiales.",
+    "lore": [
+      {
+        "title": "La Rotonda Interminable",
+        "story": "Los lugareños bromean diciendo que si pierdes tu salida en la vía anular tendrás que dar la vuelta al Savannah, una frase que se usa para el esfuerzo desperdiciado o para andar en círculos. A los conductores primerizos se les advierte que estén atentos: perder una salida en el bucle de 3.5 kilómetros significa recorrer todo el circuito antes de poder intentarlo de nuevo."
+      },
+      {
+        "title": "Donde la Ciudad Va a Respirar",
+        "story": "Los residentes mayores recuerdan una época en que el ganado pastaba donde hoy corren los deportistas, y el terreno abierto se sentía simplemente como el campo en las afueras del pueblo. El apodo de pulmones de la capital nació de generaciones de familias que venían aquí a escapar del calor y el ruido de las calles de la ciudad."
+      },
+      {
+        "title": "Sueños que Comienzan en el Césped",
+        "story": "Para muchos trinitenses, el Savannah es donde el Carnaval se sintió real por primera vez: bandas ensayando sobre la hierba, el sonido del steelpan cruzando el parque de noche y los disfrazados dando sus primeros pasos a la sombra del Gran Stand antes del largo camino hacia el escenario de juzgamiento."
+      }
+    ],
+    "sourceNote": "Esta introducción independiente se basa en relatos ampliamente documentados de la historia pública de Puerto España, junto con anécdotas compartidas por residentes locales. El Queen's Park Savannah es un parque público administrado por las autoridades pertinentes de Trinidad y Tobago; este sitio web no está afiliado a ninguna institución oficial."
   },
   "officialManagement": {
-    "title": "Acerca del Queen's Park Savannah",
+    "title": "Gestión y Administración Oficial",
     "text": "El Queen's Park Savannah es un famoso parque público en Puerto España, que cuenta con hermosos paisajes verdes y un rico valor cultural. Está dirigido y mantenido por las autoridades pertinentes de Trinidad y Tobago."
   },
   "cookieSettings": {
@@ -375,5 +400,181 @@
     },
     "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
     "rejectAll": "Rechazar Todas"
+  },
+  "about": {
+    "title": "Acerca del Queen's Park Savannah",
+    "welcome": "Bienvenido al **Queen's Park Savannah**, reconocido por los lugareños simplemente como **el Savannah**. Situado en el corazón de **Puerto España**, **Trinidad y Tobago**, este célebre parque abierto es el punto de encuentro central de la capital y el principal referente para los viajeros que exploran la isla.",
+    "detail": "Con unas 260 acres y rodeado por una carretera de un solo sentido de 3.5 kilómetros, el Queen's Park Savannah es famoso por ser la rotonda de tráfico más grande del mundo: un enorme oasis verde donde los vecinos corren al amanecer, las familias hacen picnic los fines de semana, los vendedores de comida se reúnen al anochecer y el Carnaval de Trinidad cobra vida cada año.",
+    "geoLabel": "Ubicación Geográfica",
+    "geoCrumb": "Queen's Park Savannah → Puerto España → Trinidad y Tobago",
+    "official": "Para actualizaciones oficiales e información turística regional, visite el",
+    "officialLinkLabel": "Portal Oficial de Turismo de Trinidad y Tobago"
+  },
+  "landmarks": {
+    "title": "Lugares de Interés Alrededor del Savannah",
+    "intro": "Al visitar el **Queen's Park Savannah**, los viajeros pueden explorar fácilmente un anillo de monumentos históricos y puntos de interés, incluyendo el **Jardín Botánico Real** al norte y **los Siete Magníficos** a lo largo del borde oeste. La mayoría quedan a un corto paseo o a pocos minutos en coche del perímetro del parque.",
+    "viewMap": "Ver todos los lugares cercanos en Google Maps",
+    "items": [
+      {
+        "name": "Jardín Botánico Real (Royal Botanic Gardens)",
+        "desc": "Fundado en 1818, es el jardín botánico más antiguo de Trinidad, justo al norte del Savannah, con entrada gratuita."
+      },
+      {
+        "name": "Los Siete Magníficos (The Magnificent Seven)",
+        "desc": "Siete grandes mansiones de la época victoriana a lo largo del límite oeste del Queen's Park Savannah, incluidas Whitehall y Stollmeyer's Castle."
+      },
+      {
+        "name": "Zoológico Emperor Valley",
+        "desc": "Un zoológico familiar junto al Jardín Botánico en el lado norte, ideal para combinar la visita."
+      },
+      {
+        "name": "Academia Nacional de Artes Escénicas (NAPA)",
+        "desc": "Un teatro emblemático e icono arquitectónico frente al Savannah, en Frederick Street."
+      },
+      {
+        "name": "Queen's Hall",
+        "desc": "Una de las principales salas de artes escénicas de Trinidad, a un corto paseo del parque."
+      },
+      {
+        "name": "Casa del Presidente (President's House)",
+        "desc": "La residencia oficial del Presidente de Trinidad y Tobago, que domina el borde nororiental del Savannah."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Queen's Park Savannah - Preguntas Frecuentes",
+    "subtitle": "Respuestas rápidas para visitar el Queen's Park Savannah en Puerto España.",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra el Queen's Park Savannah?",
+        "a": "El Queen's Park Savannah se encuentra en 11 Queen's Park E, en el corazón de Puerto España, Trinidad y Tobago. Es el gran parque abierto rodeado por una carretera de un solo sentido en el centro de la capital."
+      },
+      {
+        "q": "¿Es gratis visitar el Savannah?",
+        "a": "Sí. El Queen's Park Savannah es un parque público y es completamente gratuito durante todo el año, las 24 horas del día."
+      },
+      {
+        "q": "¿Cuál es el horario del Queen's Park Savannah?",
+        "a": "El parque está abierto las 24 horas todos los días. Las mañanas son ideales para trotar y relajarse, mientras que los puestos de comida del borde sur abren hacia el atardecer."
+      },
+      {
+        "q": "¿Es realmente el Queen's Park Savannah la rotonda más grande del mundo?",
+        "a": "Sí. La carretera de un solo sentido de 3.5 kilómetros que rodea el Queen's Park Savannah se describe ampliamente como la rotonda de tráfico más grande del mundo. Si conduce y pierde su salida, quizás deba dar toda la vuelta."
+      },
+      {
+        "q": "¿Qué puedo ver alrededor del Queen's Park Savannah?",
+        "a": "Las atracciones clave incluyen el Jardín Botánico Real al norte, las mansiones victorianas de los Siete Magníficos al oeste, el Zoológico Emperor Valley, la NAPA y el mercado nocturno de comida en el borde sur."
+      },
+      {
+        "q": "¿Qué comida puedo probar en el mercado nocturno del Savannah?",
+        "a": "Al anochecer, los vendedores del lado sur del Savannah ofrecen favoritos locales como Doubles, Bake and Shark, sopa de maíz y otros platos callejeros trinitenses. La mayoría de los puestos solo aceptan efectivo."
+      },
+      {
+        "q": "¿Cuándo tiene lugar el Carnaval en el Queen's Park Savannah?",
+        "a": "El Carnaval de Trinidad se celebra normalmente en febrero o marzo. El Queen's Park Savannah, especialmente la zona del Gran Stand, es el epicentro de las celebraciones con desfiles, música y concursos de disfraces."
+      },
+      {
+        "q": "¿Cómo llego al Queen's Park Savannah?",
+        "a": "Desde el Aeropuerto Internacional de Piarco, un taxi tarda unos 40-50 minutos. La mayoría de los autobuses y maxi-taxis de Puerto España pasan cerca del parque, y hay estacionamiento en la calle limitado alrededor del perímetro."
+      }
+    ]
+  },
+  "weather": {
+    "sectionTitle": "El Tiempo en el Queen's Park Savannah",
+    "sectionSubtitle": "Condiciones en vivo y pronóstico para varios días, para saber cuándo llevar paraguas, protector solar o una chaqueta impermeable.",
+    "now": "Ahora",
+    "today": "Hoy",
+    "feelsLike": "Sensación",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "rainChance": "Prob. de lluvia",
+    "updated": "Actualizado",
+    "refresh": "Actualizar",
+    "unavailable": "El clima en vivo no está disponible temporalmente. Inténtalo de nuevo en un momento.",
+    "conditions": {
+      "clear": "Cielo despejado",
+      "partly": "Parcialmente nublado",
+      "cloudy": "Nublado",
+      "fog": "Niebla",
+      "drizzle": "Llovizna",
+      "rain": "Lluvia",
+      "showers": "Chubascos",
+      "thunder": "Tormentas",
+      "snow": "Nieve"
+    },
+    "uvLabel": "Índice UV",
+    "tips": {
+      "title": "Consejos para tu visita según el tiempo",
+      "dress": "Qué llevar",
+      "activity": "Qué hacer",
+      "gear": "En la mochila",
+      "risk": "Aviso de seguridad",
+      "none": "El tiempo es favorable en general: sigue tu plan habitual.",
+      "popHighDress": "Es muy probable que llueva: ten a mano un paraguas o un impermeable.",
+      "popHighActivity": "Lluvia probable: prioriza recintos cubiertos; si pensabas ir a la playa o de excursión a la montaña, mejor otro día.",
+      "drizzleActivity": "Hay llovizna ligera: el recorrido al aire libre será algo húmedo; lleva un paraguas plegable pequeño.",
+      "rainActivity": "Lluvia ligera o moderada: evita pasar mucho tiempo al aire libre y opta por lugares cubiertos.",
+      "rainHeavyActivity": "Lluvia intensa: no se recomienda el paseo al aire libre; los paseos en barco y algunas instalaciones exteriores pueden cerrar.",
+      "rainHeavyRisk": "Lluvias fuertes: evita calles inundadas y desagües, y mira por dónde pisas.",
+      "thunderActivity": "Tormentas: refúgiate bajo techo si puedes y no te detengas bajo árboles, en zonas abiertas ni junto al agua.",
+      "thunderRisk": "Tormenta eléctrica: no permanezcas bajo árboles, en campo abierto ni cerca del agua.",
+      "uvActivity": "Radiación UV fuerte: camina por zonas de sombra y evita la exposición prolongada.",
+      "heatDress": "Hace calor: elige ropa ligera y transpirable de colores claros.",
+      "heatActivity": "Evita el sol del mediodía (aprox. 11:00-15:00); haz las actividades al aire libre por la mañana temprano o al atardecer.",
+      "diurnalDress": "Gran diferencia de temperatura entre el día y la noche: lleva una capa ligera para ponerte o quitarte.",
+      "coldDress": "Hace frío: abrígate bien.",
+      "windDress": "Hay bastante viento: los sombreros vuelan con facilidad y las faldas largas y ligeras no son buena idea.",
+      "windActivity": "Rachas de viento: algunas actividades al aire libre o acuáticas pueden suspenderse; ten cuidado con el viento.",
+      "windRisk": "Viento fuerte: aléjate de estructuras temporales y de los árboles grandes, y sujeta tus pertenencias.",
+      "fogActivity": "La niebla reduce la visibilidad: ten cuidado al caminar o conducir, y las vistas serán limitadas.",
+      "fogRisk": "Visibilidad reducida: ten mucho cuidado al desplazarte.",
+      "sunnyActivity": "Día despejado y agradable: ideal para pasear al aire libre; por la tarde el anillo ofrece una bonita puesta de sol.",
+      "partlyActivity": "Nubes con luz suave: muy bueno para pasear y fotografiar; ojo con los chaparrones de la tarde.",
+      "cloudyActivity": "Cielo nublado sin sol fuerte: cómodo para pasar más tiempo al aire libre."
+    },
+    "gear": {
+      "umbrella": "Paraguas",
+      "foldUmbrella": "Paraguas plegable",
+      "raincoat": "Impermeable",
+      "sunscreen": "Protector solar",
+      "sunglasses": "Gafas de sol",
+      "hat": "Sombrero",
+      "water": "Agua",
+      "lightJacket": "Chaqueta ligera",
+      "thickCoat": "Abrigo grueso",
+      "scarf": "Bufanda",
+      "mask": "Mascarilla"
+    }
+  },
+  "amenities": {
+    "title": "Servicios para Visitantes Alrededor del Savannah",
+    "subtitle": "Una visión neutral y objetiva de las instalaciones disponibles cerca del Queen's Park Savannah. Las instalaciones se describen solo por tipo; este sitio no recomienda ningún negocio en particular.",
+    "items": [
+      {
+        "name": "Baños (WC)",
+        "tip": "Los baños públicos dentro del parque abierto son limitados. Suele haber instalaciones sanitarias en el Jardín Botánico Real al norte, en recintos culturales cercanos y en hoteles, cafeterías y centros comerciales a un corto paseo de la vía anular. Durante el Carnaval y los grandes eventos, normalmente se instalan baños temporales cerca del Gran Stand."
+      },
+      {
+        "name": "Estacionamiento",
+        "tip": "El estacionamiento gratuito en la calle alrededor del perímetro es escaso y se llena temprano. A pocas cuadras, en el centro de Puerto España, hay estacionamientos de pago y garajes de varios niveles, y algunos hoteles cercanos ofrecen estacionamiento para visitantes. Durante eventos importantes, llega temprano o usa el transporte público."
+      },
+      {
+        "name": "Comida y Tentempiés",
+        "tip": "Tras el atardecer, los puestos del lado sur del Savannah sirven clásicos de la comida callejera local como Doubles y Bake and Shark. A un corto trayecto en coche hay restaurantes informales, cafeterías, cadenas internacionales de comida rápida y restaurantes de servicio completo. Los supermercados y las delicatessen sirven para preparar un picnic."
+      },
+      {
+        "name": "Alojamiento y Descanso",
+        "tip": "Hay una amplia gama de alojamiento en el centro de Puerto España y en el corredor del aeropuerto, desde casas de huéspedes y apartamentos con cocina hasta hoteles de negocios y hoteles urbanos. Las habitaciones se llenan rápido durante el Carnaval y los días festivos; conviene reservar con antelación."
+      },
+      {
+        "name": "Supermercados y Necesidades Diarias",
+        "tip": "Los supermercados, farmacias, cajeros automáticos y tiendas de conveniencia abundan en el centro de la ciudad y en las principales calles comerciales. Abastécete de agua potable, protector solar y comida para picnic antes de una larga tarde bajo el sol tropical; muchas tiendas pequeñas cierran al anochecer."
+      },
+      {
+        "name": "Combustible y Carga",
+        "tip": "Hay estaciones de servicio en las carreteras principales hacia y desde Puerto España, incluidas rutas cerca del lado norte del parque, y la mayoría cuenta con pequeñas tiendas de conveniencia. Los puntos públicos de carga para vehículos eléctricos siguen siendo limitados en la isla; confirma las opciones con tu empresa de alquiler u hotel y planifica los viajes largos con la batería llena."
+      }
+    ],
+    "note": "Todas las descripciones anteriores se refieren solo a tipos de instalaciones y se mantienen deliberadamente neutrales y objetivas; nada en esta página debe leerse como una recomendación de ningún negocio específico."
   }
 }

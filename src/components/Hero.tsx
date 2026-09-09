@@ -1,8 +1,9 @@
 import { useTranslations } from 'next-intl';
+import { SITE } from '@/lib/site';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const mapsUrl = "https://maps.app.goo.gl/YuLjuPMHowrSose38";
+  const mapsUrl = SITE.mapsShareUrl;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -10,8 +11,10 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/queens-park-savannah (1).jpg"
-          alt="Queen's Park Savannah"
+          alt="Queen's Park Savannah - Main view in Port of Spain, Trinidad and Tobago"
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

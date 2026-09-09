@@ -1,8 +1,9 @@
 import { useTranslations } from 'next-intl';
+import { SITE } from '@/lib/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
-  const mapsUrl = "https://maps.app.goo.gl/YuLjuPMHowrSose38";
+  const mapsUrl = SITE.mapsShareUrl;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -26,14 +27,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Queen's+Park+Savannah,+Port+of+Spain,+Trinidad+and+Tobago&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={SITE.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Queen's Park Savannah"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Queen's Park Savannah, Port of Spain"
           />
         </div>
 

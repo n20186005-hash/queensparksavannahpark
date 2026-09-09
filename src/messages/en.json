@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Queen's Park Savannah | Port of Spain's Oasis & Carnival Epicenter",
-    "description": "Explore Queen's Park Savannah, the world's largest roundabout and the epicenter of Trinidad Carnival. Admire the Magnificent Seven historic buildings and enjoy local street food."
+    "title": "Queen's Park Savannah (Port of Spain) - Visitor Guide & Location",
+    "description": "Discover Queen's Park Savannah, the iconic park and world's largest roundabout in Port of Spain, Trinidad and Tobago. View the location map, opening details, nearby Royal Botanic Gardens and The Magnificent Seven, plus travel tips."
   },
   "header": {
     "home": "Home",
@@ -11,10 +11,10 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Queen's Park Savannah",
+    "title": "Queen's Park Savannah (Port of Spain)",
     "subtitle": "Trinidad's Green Lung, The Beating Heart of the Caribbean",
     "rating": "4.4",
-    "reviewCount": "9,735",
+    "reviewCount": "9,778",
     "hours": "Public Park / Historic Site / Carnival Center",
     "openMaps": "View Location"
   },
@@ -89,7 +89,7 @@
     "address": "Address",
     "addressValue": "11 Queen's Park E, Port of Spain, Trinidad and Tobago",
     "plusCode": "Plus Code",
-    "plusCodeValue": "MF9P+F7 Port of Spain, Trinidad and Tobago",
+    "plusCodeValue": "MF9P+97 Port of Spain, Trinidad and Tobago",
     "phone": "Phone",
     "phoneValue": "+1 868-622-1670",
     "petFriendly": "Pet Friendly",
@@ -165,7 +165,8 @@
       "Green ecology"
     ],
     "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "showAllPhotos": "Show All Photos",
+    "credit": "All images on this website are the property of their respective photographers, and all copyright remains with the original photographers."
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -223,7 +224,7 @@
     ]
   },
   "mapSection": {
-    "title": "Location & Map",
+    "title": "Location & How to Visit the Savannah in Port of Spain",
     "subtitle": "11 Queen's Park E, Port of Spain, Trinidad and Tobago",
     "openMaps": "View on Google Maps"
   },
@@ -255,7 +256,8 @@
         "url": "https://nationaltrust.tt/location/queens-park-savannah/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "imageCredit": "Image credits: all photos displayed on this website are the property of their original photographers, and their copyright remains with the respective owners."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -302,32 +304,55 @@
     ]
   },
   "historyTimeline": {
-    "title": "Historical Timeline",
+    "title": "History & Significance of Queen's Park Savannah",
     "items": [
       {
-        "year": "Early Period",
-        "title": "Early Period: Park Establishment",
-        "plaque": "Public Space (Park)",
-        "description": "Queen's Park Savannah was established as a public recreational space for the citizens of Port of Spain, and has long been regarded as an important gathering place by locals."
+        "year": "1817",
+        "title": "From Sugar Estate to Public Recreation Ground",
+        "plaque": "Origins & Early History",
+        "description": "The low-lying land that became the Savannah first took shape as part of the St. Clair estate. In 1817 the Town Council of Port of Spain purchased the land from the Peschier family and kept it as a public recreation ground, open to all residents of the young capital."
       },
       {
-        "year": "20th Century",
-        "title": "20th Century: Facility Improvement",
-        "plaque": "Urban Development (Park Enhancement)",
-        "description": "With the development of Port of Spain, the Savannah gradually improved its facilities, becoming an important place for citizens' leisure and cultural events."
+        "year": "19th Century",
+        "title": "Races, Pastures & Promenades",
+        "plaque": "A City Commons Takes Shape",
+        "description": "Throughout the 1800s the open ground served many purposes at once: a grazing common, a parade ground and a racecourse where early thoroughbred meetings drew large crowds. Long before it was formally landscaped as a park, it was simply where the city came to gather, compete and relax."
       },
       {
-        "year": "21st Century",
-        "title": "21st Century: Cultural Landmark",
-        "plaque": "Cultural Identity (Public Space)",
-        "description": "Entering the 21st century, with its beautiful environment and convenient location, it has attracted more visitors and become an iconic cultural space in Port of Spain."
+        "year": "1900s",
+        "title": "The Magnificent Seven Rise on the Western Edge",
+        "plaque": "Architectural Showcase",
+        "description": "At the turn of the 20th century, as cocoa wealth transformed Trinidad, wealthy families commissioned a celebrated line of grand mansions along the western boundary of the Savannah. Each house announced its owner's success in a different architectural language - castle towers, classical columns and richly ornamented facades that made the strip famous as 'The Magnificent Seven'."
+      },
+      {
+        "year": "Today",
+        "title": "A Living Stage for National Life",
+        "plaque": "Carnival, Sport & Everyday Trinidad",
+        "description": "Today the encircling 3.5-kilometre one-way road is popularly described as forming the world's largest traffic roundabout. Inside the ring, joggers train at dawn, families picnic at weekends, street-food stalls open after sunset and, each Carnival season, the Grand Stand becomes the theatre of the Trinidadian nation."
       }
     ],
     "guideTitle": "Visitor Guide Tip",
-    "guideContent": "When visiting, you can enter the Savannah from Queen's Park East; then walk around the perimeter and enjoy the scenery and leisure atmosphere; if you have enough time, you can relax in the green spaces and experience the local culture. Finally, explore the surrounding areas of Port of Spain and feel the charm of Trinidad and Tobago's capital."
+    "guideContent": "When visiting, you can enter the Savannah from Queen's Park East; then walk around the perimeter and enjoy the scenery and leisure atmosphere; if you have enough time, you can relax in the green spaces and experience the local culture. Finally, explore the surrounding areas of Port of Spain and feel the charm of Trinidad and Tobago's capital.",
+    "loreTitle": "Stories, Legends & Local Lore",
+    "loreNote": "The tales below are part of the living folklore of Port of Spain - retold by residents over generations rather than drawn from official records.",
+    "lore": [
+      {
+        "title": "The Endless Roundabout",
+        "story": "Locals joke that if you miss your turn on the ring road you will 'go around the Savannah' - a phrase used for wasted effort or going in circles. First-time drivers are warned to stay alert: a missed exit on the 3.5-kilometre loop means driving the whole circuit before you can try again."
+      },
+      {
+        "title": "Where the City Goes to Breathe",
+        "story": "Older residents remember a time when cattle still grazed where joggers run today, and the open land simply felt like 'the countryside' at the edge of town. The nickname 'the lungs of the capital' grew out of generations of families who came here to escape the heat and noise of the city streets."
+      },
+      {
+        "title": "Dreams That Begin on the Grass",
+        "story": "For many Trinidadians, the Savannah is where Carnival first felt real: bands rehearsing on the grass, the sound of steelpan drifting across the park at night, and masqueraders taking their first steps in the shadow of the Grand Stand before the long road to the judging stage."
+      }
+    ],
+    "sourceNote": "This independent introduction follows widely documented accounts of the public history of Port of Spain, together with anecdotes shared by local residents. Queen's Park Savannah is a public park managed by the relevant authorities of Trinidad and Tobago; this website is not affiliated with any official institution."
   },
   "officialManagement": {
-    "title": "About Queen's Park Savannah",
+    "title": "Official Management & Governance",
     "text": "Queen's Park Savannah is a famous public park in Port of Spain, featuring beautiful green landscapes and rich cultural value. It is managed and maintained by the relevant authorities of Trinidad and Tobago."
   },
   "cookieSettings": {
@@ -375,5 +400,181 @@
     },
     "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
     "rejectAll": "Reject All"
+  },
+  "about": {
+    "title": "About Queen's Park Savannah",
+    "welcome": "Welcome to **Queen's Park Savannah**, widely recognized by locals simply as **the Savannah**. Located in the heart of **Port of Spain**, **Trinidad and Tobago**, this celebrated open park is the central gathering place of the capital and the primary hub for travellers exploring the island.",
+    "detail": "Covering around 260 acres and enclosed by a 3.5-kilometre one-way road, Queen's Park Savannah is famous as the world's largest roundabout — a vast green oasis where residents jog at sunrise, families picnic at weekends, street-food vendors gather at dusk and Trinidad Carnival comes alive every year.",
+    "geoLabel": "Geographic Location",
+    "geoCrumb": "Queen's Park Savannah → Port of Spain → Trinidad and Tobago",
+    "official": "For official updates and regional tourism information, visit the",
+    "officialLinkLabel": "Trinidad and Tobago Official Tourism Portal"
+  },
+  "landmarks": {
+    "title": "Landmarks & Attractions Around the Savannah",
+    "intro": "When visiting **Queen's Park Savannah**, travellers can easily explore a ring of historic landmarks and points of interest, including **Royal Botanic Gardens** on the north side and **The Magnificent Seven** along the western edge. Most are within a short walk or a few minutes' drive of the park perimeter.",
+    "viewMap": "View all nearby places on Google Maps",
+    "items": [
+      {
+        "name": "Royal Botanic Gardens",
+        "desc": "Established in 1818, Trinidad's oldest botanic garden sits directly north of the Savannah and is free to enter."
+      },
+      {
+        "name": "The Magnificent Seven",
+        "desc": "Seven grand Victorian-era mansions along the western boundary of Queen's Park Savannah, including Whitehall and Stollmeyer's Castle."
+      },
+      {
+        "name": "Emperor Valley Zoo",
+        "desc": "A family-friendly zoo beside the Botanic Gardens on the north side, ideal for a combined visit."
+      },
+      {
+        "name": "National Academy for the Performing Arts (NAPA)",
+        "desc": "A landmark theatre and architectural icon facing the Savannah on Frederick Street."
+      },
+      {
+        "name": "Queen's Hall",
+        "desc": "One of Trinidad's leading performing-arts venues, located a short walk from the park."
+      },
+      {
+        "name": "President's House",
+        "desc": "The official residence of the President of Trinidad and Tobago, overlooking the north-eastern edge of the Savannah."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Queen's Park Savannah - Frequently Asked Questions",
+    "subtitle": "Quick answers about visiting Queen's Park Savannah in Port of Spain.",
+    "items": [
+      {
+        "q": "Where is Queen's Park Savannah located?",
+        "a": "Queen's Park Savannah is located at 11 Queen's Park E in the heart of Port of Spain, Trinidad and Tobago. It is the large open park encircled by a one-way road in the centre of the capital."
+      },
+      {
+        "q": "Is the Savannah free to visit?",
+        "a": "Yes. Queen's Park Savannah is a public park and is completely free to visit year-round, 24 hours a day."
+      },
+      {
+        "q": "What are the opening hours of Queen's Park Savannah?",
+        "a": "The park itself is open 24 hours every day. Mornings are best for jogging and relaxing, while the food stalls along the southern edge open around sunset."
+      },
+      {
+        "q": "Is Queen's Park Savannah really the world's largest roundabout?",
+        "a": "Yes. The 3.5-kilometre one-way road that encircles Queen's Park Savannah is widely described as the world's largest traffic roundabout. If you drive and miss your exit, you may need to go around the whole loop."
+      },
+      {
+        "q": "What can I see around Queen's Park Savannah?",
+        "a": "Key attractions include the Royal Botanic Gardens to the north, the Victorian-era Magnificent Seven mansions on the western side, the Emperor Valley Zoo, NAPA and the night food market on the south edge."
+      },
+      {
+        "q": "What food can I try at the Savannah night market?",
+        "a": "After sunset, vendors on the southern side of the Savannah serve local favourites such as Doubles, Bake and Shark, corn soup and other Trinidadian street food. Most stalls accept cash only."
+      },
+      {
+        "q": "When does Carnival take place at Queen's Park Savannah?",
+        "a": "Trinidad Carnival is usually held in February or March. Queen's Park Savannah, especially around the Grand Stand, is the epicentre of the celebrations with parades, music and costume competitions."
+      },
+      {
+        "q": "How do I get to Queen's Park Savannah?",
+        "a": "From Piarco International Airport a taxi takes about 40-50 minutes. Most Port of Spain buses and maxi-taxis pass near the park, and there is limited street parking around the perimeter."
+      }
+    ]
+  },
+  "weather": {
+    "sectionTitle": "Weather at Queen's Park Savannah",
+    "sectionSubtitle": "Live conditions and a multi-day outlook so you can plan when to carry an umbrella, sunscreen or a rain jacket.",
+    "now": "Now",
+    "today": "Today",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "rainChance": "Rain chance",
+    "updated": "Updated",
+    "refresh": "Refresh",
+    "unavailable": "Live weather is temporarily unavailable. Please try again in a moment.",
+    "conditions": {
+      "clear": "Clear sky",
+      "partly": "Partly cloudy",
+      "cloudy": "Overcast",
+      "fog": "Foggy",
+      "drizzle": "Light drizzle",
+      "rain": "Rain",
+      "showers": "Rain showers",
+      "thunder": "Thunderstorms",
+      "snow": "Snow"
+    },
+    "uvLabel": "UV index",
+    "tips": {
+      "title": "Visit tips based on today's conditions",
+      "dress": "What to wear",
+      "activity": "Plan your visit",
+      "gear": "Pack these",
+      "risk": "Safety notice",
+      "none": "Conditions look fine overall - follow your original plan.",
+      "popHighDress": "Rain is likely: keep an umbrella or a rain jacket handy.",
+      "popHighActivity": "Rain is likely: choose indoor venues first; if you planned a beach day or a hike, it is better to reschedule.",
+      "drizzleActivity": "There is light drizzle: outdoor sightseeing will be a little damp, so carry a small folding umbrella.",
+      "rainActivity": "Light to moderate rain: avoid long hours outside and switch to indoor sights instead.",
+      "rainHeavyActivity": "Heavy rain: outdoor sightseeing is not recommended; boat rides and some outdoor facilities may be suspended.",
+      "rainHeavyRisk": "Heavy rainfall: avoid flooded streets and drain outlets, and watch your step.",
+      "thunderActivity": "Thunderstorms: stay indoors if you can, and do not linger under trees, in open areas or near water.",
+      "thunderRisk": "Thunderstorm: do not stay under trees, in open ground or beside water.",
+      "uvActivity": "UV is strong: walk in shaded spots as much as you can and limit long exposure.",
+      "heatDress": "It is hot: choose light, breathable clothes in light colours.",
+      "heatActivity": "Try to avoid the midday sun (around 11:00-15:00) and plan outdoor time for early morning or late afternoon.",
+      "diurnalDress": "Big temperature swing between day and night: carry a light layer you can add or remove.",
+      "coldDress": "It is cold: dress warmly.",
+      "windDress": "It is breezy: hats can blow away easily, and long floaty skirts are not a good idea.",
+      "windActivity": "Gusty conditions: some outdoor or water-based activities may pause; mind the wind.",
+      "windRisk": "Strong wind: keep away from temporary structures and large trees, and hold on to your belongings.",
+      "fogActivity": "Fog limits visibility: take care when walking or driving, and views will be limited.",
+      "fogRisk": "Low visibility: take extra care when getting around.",
+      "sunnyActivity": "A fine clear day: great for walking outdoors; the ring road offers a pleasant evening sunset.",
+      "partlyActivity": "Partly cloudy with soft light: nice for strolling and photos; keep an eye out for afternoon showers.",
+      "cloudyActivity": "Overcast without harsh sun: comfortable for spending more time outside."
+    },
+    "gear": {
+      "umbrella": "Umbrella",
+      "foldUmbrella": "Folding umbrella",
+      "raincoat": "Rain jacket",
+      "sunscreen": "Sunscreen",
+      "sunglasses": "Sunglasses",
+      "hat": "Sun hat",
+      "water": "Drinking water",
+      "lightJacket": "Light layer",
+      "thickCoat": "Warm coat",
+      "scarf": "Scarf",
+      "mask": "Face mask"
+    }
+  },
+  "amenities": {
+    "title": "Visitor Amenities Around the Savannah",
+    "subtitle": "A neutral, objective overview of the facilities you can expect around Queen's Park Savannah. Facilities are described by type only - this site does not recommend any particular business.",
+    "items": [
+      {
+        "name": "Toilets (WC)",
+        "tip": "Public restrooms inside the open park are limited. Toilet facilities are typically found at the Royal Botanic Gardens to the north, at nearby cultural venues, and at hotels, cafes and shopping centres within a short walk of the ring road. During Carnival and major events, temporary toilets are usually installed near the Grand Stand."
+      },
+      {
+        "name": "Parking",
+        "tip": "Free on-street parking around the perimeter is scarce and fills early in the day. Paid parking lots and multi-storey car parks operate in central Port of Spain a few blocks from the park, and some hotels nearby offer visitor parking. During big events, arrive early or use public transport instead."
+      },
+      {
+        "name": "Dining & Snacks",
+        "tip": "After sunset, food stalls along the south side of the Savannah serve local street-food classics such as Doubles and Bake and Shark. Within a short drive you will also find casual eateries, cafes, international fast-food chains and full-service restaurants. Supermarkets and delis are handy for stocking a picnic."
+      },
+      {
+        "name": "Lodging & Rest",
+        "tip": "A range of accommodation is available in central Port of Spain and along the airport corridor, from guesthouses and self-catering apartments to business hotels and city-centre hotels. Rooms fill quickly during Carnival and public holidays, so book well in advance."
+      },
+      {
+        "name": "Supermarkets & Daily Needs",
+        "tip": "Supermarkets, pharmacies, ATMs and convenience stores are easy to find in the city centre and main shopping streets. Stock up on drinking water, sunscreen and picnic food before a long afternoon in the tropical sun; note that many smaller shops keep early-evening closing hours."
+      },
+      {
+        "name": "Fuel & Charging",
+        "tip": "Petrol stations are located along the main roads into and out of Port of Spain, including routes near the north side of the park, and most include small convenience shops. Public electric-vehicle charging points remain limited on the island, so confirm charging options with your rental company or hotel and plan longer drives with a full charge."
+      }
+    ],
+    "note": "All descriptions above refer to facility types only and are kept intentionally neutral and objective; nothing on this page should be read as a recommendation of any specific business."
   }
 }

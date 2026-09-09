@@ -190,3 +190,9 @@ h1, h2, h3, h4, h5, h6 {
 a {
   transition: color 0.2s ease;
 }
+
+/* Rich text emphasis (used by BoldText on SEO entity copy) */
+.rich-text strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}

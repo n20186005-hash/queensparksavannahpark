@@ -1,0 +1,55 @@
+{
+  "name": "Queen's Park Savannah - Visitor Guide & Location",
+  "short_name": "Queen's Park Savannah",
+  "description": "Discover Queen's Park Savannah in Port of Spain, Trinidad and Tobago. View the map, opening details, nearby attractions, history and travel tips.",
+  "lang": "en",
+  "start_url": "/es",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#faf8f3",
+  "theme_color": "#1a3d4a",
+  "categories": ["travel", "tourism"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Visit Guide",
+      "short_name": "Guide",
+      "description": "View the full visitor guide for Queen's Park Savannah",
+      "url": "/es#intro",
+      "icons": [
+        {
+          "src": "/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Location & Map",
+      "short_name": "Map",
+      "description": "Open the Queen's Park Savannah location map",
+      "url": "/es#map"
+    }
+  ]
+}

@@ -100,6 +100,10 @@ export default function Gallery() {
                 {t('viewAll')}
               </a>
             </div>
+
+            <p className="text-center mt-6 text-xs" style={{ color: 'var(--text-muted)' }}>
+              {t('credit')}
+            </p>
           </div>
         </div>
       </section>
