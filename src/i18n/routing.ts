@@ -2,8 +2,10 @@ import { defineRouting } from 'next-intl/routing';
 import { createNavigation } from 'next-intl/navigation';
 
 export const routing = defineRouting({
-  locales: ['es', 'zh', 'en'],
-  defaultLocale: 'es',
+  // English is the primary language: Trinidad and Tobago's official language
+  // and the language of ~99% of searches for "Queen's Park Savannah".
+  locales: ['en', 'es', 'zh'],
+  defaultLocale: 'en',
   localePrefix: 'always',
   pathnames: {
     '/': '/',

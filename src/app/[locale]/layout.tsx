@@ -23,7 +23,9 @@ export const viewport: Viewport = {
 function attractionJsonLd() {
   return {
     '@context': 'https://schema.org',
-    '@type': 'TouristAttraction',
+    // "Park" + "TouristAttraction" makes the rich result eligible for both
+    // local (map/knowledge panel) and travel-related queries.
+    '@type': ['Park', 'TouristAttraction'],
     '@id': `${SITE.url}/#attraction`,
     name: SITE.attractionFullName,
     alternateName: [
@@ -33,8 +35,15 @@ function attractionJsonLd() {
     ],
     description: `Comprehensive visitor guide to ${SITE.attractionFullName} in ${SITE.addressLocality}, ${SITE.countryName}.`,
     url: SITE.url,
+    telephone: SITE.phone,
     image: [`${SITE.url}${SITE.heroImagePath}`],
     isAccessibleForFree: true,
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: SITE.rating,
+      bestRating: '5',
+      reviewCount: Number(SITE.reviewCount.replace(/\D/g, '')),
+    },
     address: {
       '@type': 'PostalAddress',
       streetAddress: SITE.streetAddress,
@@ -126,10 +135,11 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
+        'en': enUrl,
         'es': esUrl,
         'zh': zhUrl,
-        'en': enUrl,
-        'x-default': esUrl,
+        // x-default points to English: the audience language for this site.
+        'x-default': enUrl,
       } as Record<string, string>,
     },
     openGraph: {
