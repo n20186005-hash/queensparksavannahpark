@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Queen's Park Savannah Trinidad: Visitor Guide, Map & Food",
-    "description": "Queen's Park Savannah, Port of Spain: the world's largest roundabout, coconut & street-food vendors, the Magnificent Seven and free 24-hour access, with map."
+    "title": "Queen's Park Savannah – 3.5 km Walk, Map & Visitor Guide",
+    "description": "Explore Queen's Park Savannah in Port of Spain, Trinidad. Discover the 3.5 km loop, walking tips, map, parking, food stalls and nearby attractions."
   },
   "header": {
     "home": "Home",
@@ -14,13 +14,13 @@
     "title": "Queen's Park Savannah (Port of Spain)",
     "subtitle": "Trinidad's Green Lung, The Beating Heart of the Caribbean",
     "rating": "4.4",
-    "reviewCount": "9,778",
+    "reviewCount": "9,798",
     "hours": "Public Park / Historic Site / Carnival Center",
     "openMaps": "View Location"
   },
   "intro": {
     "title": "Explore Queen's Park Savannah",
-    "description": "As the 'green lung' of Port of Spain, Queen's Park Savannah is more than just a park—it's a microcosm of the Trinidadian lifestyle. From local residents jogging in the early morning to the lively food vendors at night, and the costumed dancers during Carnival, this place beats with the most passionate pulse of the Caribbean.\n\nFormerly the St. Clair Estate, it was purchased by the Town Council from the Peschier family in 1817 and retained as a public recreation ground. Today, with a perimeter of about 3.5 kilometers (2.2 miles), the one-way road surrounding it effectively forms the world's largest traffic roundabout.",
+    "description": "As the 'green lung' of Port of Spain, Queen's Park Savannah is more than just a park—it's a microcosm of the Trinidadian lifestyle. From local residents jogging in the early morning to the lively food vendors at night, and the costumed dancers during Carnival, this place beats with the most passionate pulse of the Caribbean.\n\nFormerly part of the St. Clair sugar estate, the land was purchased by the Town Council from the Peschier family in 1817 and retained as a public recreation ground. Today, with a perimeter of about 3.5 kilometers (2.2 miles), the one-way road surrounding it effectively forms the world's largest traffic roundabout.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -170,58 +170,10 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
-    "items": [
-      {
-        "name": "John Mitchell",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "The largest roundabout in the world! Eating Doubles here at night was my best experience in Trinidad."
-      },
-      {
-        "name": "Maria Santos",
-        "date": "2 weeks ago",
-        "rating": 5,
-        "text": "Amazing open space with so much history. The Magnificent Seven on the west side are a must-see. A Port of Spain essential."
-      },
-      {
-        "name": "David Thompson",
-        "date": "3 weeks ago",
-        "rating": 4,
-        "text": "Jogging here every morning feels great. Grabbing a fresh coconut water is the perfect way to start the day."
-      },
-      {
-        "name": "Sarah Williams",
-        "date": "Over 6 months ago",
-        "rating": 5,
-        "text": "During Carnival, this is absolutely the center of the world! The atmosphere is insane, and the Grand Stand shows are unforgettable."
-      },
-      {
-        "name": "Michael Roberts",
-        "date": "2 months ago",
-        "rating": 4,
-        "text": "Great place to experience local life. The corn soup and Bake and Shark at the night market are delicious."
-      },
-      {
-        "name": "Lisa Richardson",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "Beautiful park, with the Royal Botanic Gardens right to the north. Fantastic scenery and a perfect spot for photos."
-      },
-      {
-        "name": "Kevin James",
-        "date": "3 months ago",
-        "rating": 4,
-        "text": "Huge space, lots of families playing cricket here on weekends. The traffic around is busy, but it's peaceful inside the park."
-      },
-      {
-        "name": "Jennifer Lewis",
-        "date": "2 months ago",
-        "rating": 5,
-        "text": "The crown jewel of Port of Spain. Not just a green space, but the best place to understand Trinidad's culture, history, and food."
-      }
-    ]
+    "declaration": "Individual visitor reviews for Queen's Park Savannah are published on Google Maps. The summary below is aggregated from that public listing and is not stored on this site.",
+    "summary": "Based on {count} reviews on Google Maps",
+    "checked": "Rating last checked October 2026",
+    "moreReviews": "Read Reviews on Google Maps"
   },
   "mapSection": {
     "title": "Location & How to Visit the Savannah in Port of Spain",
@@ -476,6 +428,18 @@
       {
         "q": "How do I get to Queen's Park Savannah?",
         "a": "From Piarco International Airport a taxi takes about 40-50 minutes. Most Port of Spain buses and maxi-taxis pass near the park, and there is limited street parking around the perimeter."
+      },
+      {
+        "q": "How far is it to walk around Queen's Park Savannah?",
+        "a": "The perimeter loop around Queen's Park Savannah is about 3.5 km (2.2 miles). A relaxed walk takes roughly 40-45 minutes, a brisk walk about 30-35 minutes, and an easy jog around 20-25 minutes."
+      },
+      {
+        "q": "How long does it take to walk the Savannah loop?",
+        "a": "One full lap of the 3.5 km perimeter road takes most people 40-45 minutes at a leisurely pace, 30-35 minutes briskly, or about 20-25 minutes jogging. The route is flat and paved the whole way."
+      },
+      {
+        "q": "Is it safe to walk around the Savannah at night?",
+        "a": "The loop stays busy after sunset because of the south-side food stalls, and it is generally lively and reasonably lit. Use normal city precautions and stay on the lit perimeter road."
       }
     ]
   },
@@ -604,6 +568,75 @@
       {
         "t": "Relax on the lawns or catch Carnival",
         "d": "The park is free and open 24 hours, and it becomes the epicentre of Trinidad Carnival in February and March."
+      }
+    ]
+  },
+  "quickGlance": {
+    "title": "At a glance",
+    "distance": "3.5 km loop",
+    "address": "11 Queen's Park E, Port of Spain",
+    "hours": "Open 24 hours",
+    "tickets": "Free admission",
+    "map": "Open in Google Maps"
+  },
+  "distance": {
+    "title": "How Long Is the Walk Around Queen's Park Savannah?",
+    "intro": "The perimeter road that encircles Queen's Park Savannah forms a roughly 3.5 km (2.2-mile) loop — often described as the world's largest roundabout. It is flat, paved and level the entire way, which makes it one of the most popular walking and jogging routes in Port of Spain.",
+    "timesTitle": "How long does one lap take?",
+    "times": [
+      "Leisurely walk: about 40–45 minutes",
+      "Brisk walk: about 30–35 minutes",
+      "Easy jog or run: about 18–25 minutes"
+    ],
+    "routeTitle": "Recommended walking route",
+    "route": "Start near the southern food stalls, follow the perimeter road clockwise, pass the Magnificent Seven on the west side, the Royal Botanic Gardens on the north, and return to where you began. There is no official start line — any point on the loop works.",
+    "nightTitle": "Walking at night",
+    "night": "After sunset the south-side food stalls draw crowds, so the loop stays busy and fairly lit. Keep to the perimeter road and take normal city precautions.",
+    "mapCta": "Open the loop on Google Maps",
+    "moreLink": "Read the full loop guide",
+    "note": "Official tourism materials describe the ring road at about 2 miles; we quote the full pedestrian loop at ≈3.5 km. Measured routes can differ slightly."
+  },
+  "distancePage": {
+    "title": "Walking & Jogging the Queen's Park Savannah Loop",
+    "metaTitle": "Queen's Park Savannah Loop: 3.5 km Walk, Jogging Times & Route",
+    "description": "Plan a walk or run around Queen's Park Savannah in Port of Spain: loop distance, pace and time estimates, surface, start points, night walking and where to park.",
+    "hero": "Everything you need to plan a walk or run around the Savannah — the 3.5 km perimeter loop in the heart of Port of Spain.",
+    "paceTitle": "Pace & time reference",
+    "paceNote": "Estimates for one lap of the ≈3.5 km perimeter loop at a steady pace.",
+    "pace": [
+      { "label": "Slow stroll", "time": "45–55 min", "detail": "Photos, breaks, people-watching" },
+      { "label": "Leisurely walk", "time": "40–45 min", "detail": "Relaxed, steady pace" },
+      { "label": "Brisk walk", "time": "30–35 min", "detail": "Power-walking" },
+      { "label": "Light jog", "time": "22–28 min", "detail": "Easy running" },
+      { "label": "Run", "time": "18–22 min", "detail": "Continuous running" }
+    ],
+    "terrainTitle": "Surface & terrain",
+    "terrain": "The perimeter is a paved, flat, one-way road — ideal for walking and jogging. Inside the ring, the open lawns are grass; stay on the paths after rain.",
+    "startTitle": "Where to start",
+    "start": "Most people begin near the southern food stalls or the north-end Botanic Gardens entrance. Either way you complete the same loop; there is no official start line.",
+    "nightTitle": "Evening & night walks",
+    "night": "After sunset the south-side stalls draw crowds, so the loop stays busy and reasonably lit. Keep to the perimeter road and use normal city awareness.",
+    "amenitiesTitle": "Water, parking & facilities",
+    "amenities": "Coconut-water and snack vendors line the perimeter. Public toilets are limited (try the Botanic Gardens and nearby venues), and street parking is scarce — arrive early or use a taxi. See the parking guide on the main page for details.",
+    "mapTitle": "Map of the loop",
+    "backHome": "Back to the main guide",
+    "faqTitle": "Loop FAQs",
+    "faq": [
+      {
+        "q": "How far is it to walk around Queen's Park Savannah?",
+        "a": "The perimeter loop is about 3.5 km (2.2 miles). A relaxed walk takes roughly 40-45 minutes, a brisk walk about 30-35 minutes, and an easy jog around 20-25 minutes."
+      },
+      {
+        "q": "How long does it take to walk the Savannah loop?",
+        "a": "One full lap of the 3.5 km perimeter road takes most people 40-45 minutes at a leisurely pace, 30-35 minutes briskly, or about 20-25 minutes jogging. The route is flat and paved the whole way."
+      },
+      {
+        "q": "Is the Savannah loop good for running?",
+        "a": "Yes. The perimeter road is flat, paved and traffic-calmed, making it one of the most popular running routes in Port of Spain. Early mornings are coolest and least crowded."
+      },
+      {
+        "q": "Is it safe to walk around the Savannah at night?",
+        "a": "The loop stays busy after sunset because of the south-side food stalls, and it is generally lively and reasonably lit. Use normal city precautions and stay on the lit perimeter road."
       }
     ]
   }

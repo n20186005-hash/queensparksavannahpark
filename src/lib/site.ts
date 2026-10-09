@@ -43,9 +43,9 @@ export const SITE = {
   mapsEmbedSrc:
     'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6968.704115489896!2d-61.5142594!3d10.668492499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c3608757d0f84eb%3A0x7891e3ceea281d80!2sQueen\'s%20Park%20Savannah!5e1!3m2!1szh-CN!2s!4v1788950462250!5m2!1szh-CN!2s',
 
-  // Ratings (latest Google listing)
+  // Ratings (latest Google listing, checked October 2026)
   rating: '4.4',
-  reviewCount: '9,778',
+  reviewCount: '9,798',
 
   // Nearby semantic landmarks (used for entity clustering)
   nearbyLandmark1: 'Royal Botanic Gardens',

@@ -14,13 +14,13 @@
     "title": "Queen's Park Savannah (Puerto España)",
     "subtitle": "El pulmón verde de Trinidad, el latido del Caribe",
     "rating": "4.4",
-    "reviewCount": "9,778",
+    "reviewCount": "9,798",
     "hours": "Parque Urbano / Sitio Histórico / Centro del Carnaval",
     "openMaps": "Ver Ubicación"
   },
   "intro": {
     "title": "Explora el Queen's Park Savannah",
-    "description": "Como el 'pulmón verde' de Puerto España, el Queen's Park Savannah no es solo un parque: es un microcosmos del estilo de vida trinitense. Desde los residentes locales trotando en la madrugada hasta los animados puestos de comida por la noche y los bailarines disfrazados durante el Carnaval, este lugar late con el pulso más apasionado del Caribe.\n\nAntiguamente la hacienda azucarera St. Clair, fue comprada por el Ayuntamiento a la familia Peschier en 1817 y conservada como terreno de recreo público. Hoy, con un perímetro de unos 3.5 kilómetros (2.2 millas), la carretera de un solo sentido que lo rodea forma efectivamente la rotonda de tráfico más grande del mundo.",
+    "description": "Como el 'pulmón verde' de Puerto España, el Queen's Park Savannah no es solo un parque: es un microcosmos del estilo de vida trinitense. Desde los residentes locales trotando en la madrugada hasta los animados puestos de comida por la noche y los bailarines disfrazados durante el Carnaval, este lugar late con el pulso más apasionado del Caribe.\n\nAntiguamente parte de la hacienda azucarera St. Clair, la tierra fue comprada por el Ayuntamiento a la familia Peschier en 1817 y conservada como terreno de recreo público. Hoy, con un perímetro de unos 3.5 kilómetros (2.2 millas), la carretera de un solo sentido que lo rodea forma efectivamente la rotonda de tráfico más grande del mundo.",
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -170,58 +170,10 @@
   },
   "reviews": {
     "title": "Reseñas de Visitantes",
-    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
-    "moreReviews": "Ver Más Reseñas en Google Maps",
-    "items": [
-      {
-        "name": "John Mitchell",
-        "date": "hace 1 mes",
-        "rating": 5,
-        "text": "¡La rotonda más grande del mundo! Comer Doubles aquí por la noche fue mi mejor experiencia en Trinidad."
-      },
-      {
-        "name": "Maria Santos",
-        "date": "hace 2 semanas",
-        "rating": 5,
-        "text": "Increíble espacio abierto con tanta historia. Los Siete Magníficos en el lado oeste son una visita obligada. Esencial en Puerto España."
-      },
-      {
-        "name": "David Thompson",
-        "date": "hace 3 semanas",
-        "rating": 4,
-        "text": "Trotar aquí cada mañana se siente genial. Tomar un agua de coco fresca es la manera perfecta de comenzar el día."
-      },
-      {
-        "name": "Sarah Williams",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "¡Durante el Carnaval, este es absolutamente el centro del mundo! El ambiente es una locura y los espectáculos del Gran Stand son inolvidables."
-      },
-      {
-        "name": "Michael Roberts",
-        "date": "hace 2 meses",
-        "rating": 4,
-        "text": "Un gran lugar para experimentar la vida local. La sopa de maíz y el Bake and Shark en el mercado nocturno son deliciosos."
-      },
-      {
-        "name": "Lisa Richardson",
-        "date": "hace 1 mes",
-        "rating": 5,
-        "text": "Hermoso parque, con los Jardines Botánicos Reales justo al norte. Fantástico paisaje y un lugar perfecto para fotos."
-      },
-      {
-        "name": "Kevin James",
-        "date": "hace 3 meses",
-        "rating": 4,
-        "text": "Gran espacio, muchas familias jugando al críquet aquí los fines de semana. El tráfico alrededor es intenso, pero dentro del parque es pacífico."
-      },
-      {
-        "name": "Jennifer Lewis",
-        "date": "hace 2 meses",
-        "rating": 5,
-        "text": "La joya de la corona de Puerto España. No solo un espacio verde, sino el mejor lugar para entender la cultura, historia y comida de Trinidad."
-      }
-    ]
+    "declaration": "Las reseñas individuales de visitantes del Queen's Park Savannah se publican en Google Maps. El resumen siguiente se agrega a partir de esa lista pública y no se almacena en este sitio.",
+    "summary": "Basado en {count} reseñas en Google Maps",
+    "checked": "Valoración verificada en octubre de 2026",
+    "moreReviews": "Leer Reseñas en Google Maps"
   },
   "mapSection": {
     "title": "Ubicación y Cómo Visitar el Savannah en Puerto España",
@@ -476,6 +428,18 @@
       {
         "q": "¿Cómo llego al Queen's Park Savannah?",
         "a": "Desde el Aeropuerto Internacional de Piarco, un taxi tarda unos 40-50 minutos. La mayoría de los autobuses y maxi-taxis de Puerto España pasan cerca del parque, y hay estacionamiento en la calle limitado alrededor del perímetro."
+      },
+      {
+        "q": "¿Qué distancia tiene caminar alrededor del Queen's Park Savannah?",
+        "a": "El bucle perimetral alrededor del Queen's Park Savannah tiene unos 3.5 km (2.2 millas). Un paseo relajado toma aproximadamente 40-45 minutos, uno más rápido unos 30-35 minutos, y un trote suave unas 20-25 minutos."
+      },
+      {
+        "q": "¿Cuánto tiempo toma caminar el bucle del Savannah?",
+        "a": "Una vuelta completa a la carretera perimetral de 3.5 km toma a la mayoría de las personas 40-45 minutos a paso relajado, 30-35 minutos a paso rápido, o unas 20-25 minutos trotando. La ruta es plana y pavimentada todo el recorrido."
+      },
+      {
+        "q": "¿Es seguro caminar alrededor del Savannah por la noche?",
+        "a": "El bucle se mantiene concurrido después del atardecer por los puestos de comida del lado sur, y por lo general está animado y razonablemente iluminado. Toma precauciones normales de ciudad y quédate en la carretera perimetral iluminada."
       }
     ]
   },
@@ -604,6 +568,75 @@
       {
         "t": "Relájate en el césped o vive el Carnaval",
         "d": "El parque es gratuito y abre 24 horas, y se convierte en el epicentro del Carnaval de Trinidad en febrero y marzo."
+      }
+    ]
+  },
+  "quickGlance": {
+    "title": "En resumen",
+    "distance": "Bucle de 3,5 km",
+    "address": "11 Queen's Park E, Puerto España",
+    "hours": "Abierto 24 horas",
+    "tickets": "Entrada gratuita",
+    "map": "Abrir en Google Maps"
+  },
+  "distance": {
+    "title": "¿Cuánto tardas en caminar alrededor del Queen's Park Savannah?",
+    "intro": "La carretera perimetral que rodea el Queen's Park Savannah forma un bucle de unos 3,5 km (2,2 millas), a menudo descrito como la rotonda de tráfico más grande del mundo. Es plana, pavimentada y nivelada en todo su recorrido, lo que la convierte en una de las rutas de caminata y carrera más populares de Puerto España.",
+    "timesTitle": "¿Cuánto tiempo toma una vuelta?",
+    "times": [
+      "Paseo relajado: unos 40–45 minutos",
+      "Paseo rápido: unos 30–35 minutos",
+      "Trote o carrera suave: unos 18–25 minutos"
+    ],
+    "routeTitle": "Ruta de caminata recomendada",
+    "route": "Comienza cerca de los puestos de comida del sur, sigue la carretera perimetral en el sentido de las agujas del reloj, pasa los Siete Magníficos al oeste, los Jardines Botánicos Reales al norte y regresa al punto de inicio. No hay una línea de salida oficial: cualquier punto del bucle sirve.",
+    "nightTitle": "Caminar de noche",
+    "night": "Tras el atardecer, los puestos del sur atraen multitudes, por lo que el bucle permanece concurrido y razonablemente iluminado. Quédate en la carretera perimetral y toma precauciones normales de ciudad.",
+    "mapCta": "Abrir el bucle en Google Maps",
+    "moreLink": "Lee la guía completa del bucle",
+    "note": "Los materiales oficiales de turismo describen la rotonda en unas 2 millas; nosotros citamos el bucle peatonal completo en ≈3,5 km. Las rutas medidas pueden diferir ligeramente."
+  },
+  "distancePage": {
+    "title": "Caminar y Correr por el Bucle del Queen's Park Savannah",
+    "metaTitle": "El Bucle del Queen's Park Savannah: Caminata de 3,5 km, Tiempos y Ruta",
+    "description": "Planifica una caminata o carrera alrededor del Queen's Park Savannah en Puerto España: distancia del bucle, tiempos según el ritmo, superficie, puntos de inicio, caminata nocturna y dónde estacionar.",
+    "hero": "Todo lo que necesitas para planificar una caminata o carrera alrededor del Savannah: el bucle perimetral de 3,5 km en el corazón de Puerto España.",
+    "paceTitle": "Referencia de ritmo y tiempo",
+    "paceNote": "Estimaciones para una vuelta del bucle de ≈3,5 km a un ritmo constante.",
+    "pace": [
+      { "label": "Paseo lento", "time": "45–55 min", "detail": "Fotos, descansos, observar gente" },
+      { "label": "Paseo relajado", "time": "40–45 min", "detail": "Ritmo tranquilo y constante" },
+      { "label": "Paseo rápido", "time": "30–35 min", "detail": "Caminar a paso ligero" },
+      { "label": "Trote suave", "time": "22–28 min", "detail": "Carrera fácil" },
+      { "label": "Carrera", "time": "18–22 min", "detail": "Carrera continua" }
+    ],
+    "terrainTitle": "Superficie y terreno",
+    "terrain": "El perímetro es una carretera pavimentada, plana y de un solo sentido, ideal para caminar y correr. Dentro del anillo, el césped es de pasto; quédate en los senderos después de llover.",
+    "startTitle": "Dónde empezar",
+    "start": "La mayoría comienza cerca de los puestos de comida del sur o de la entrada norte de los Jardines Botánicos. En cualquier caso completas el mismo bucle; no hay una línea de salida oficial.",
+    "nightTitle": "Caminatas al anochecer y de noche",
+    "night": "Tras el atardecer, los puestos del sur atraen multitudes, por lo que el bucle permanece concurrido y razonablemente iluminado. Quédate en la carretera perimetral y usa precaución normal de ciudad.",
+    "amenitiesTitle": "Agua, estacionamiento y servicios",
+    "amenities": "Vendedores de agua de coco y snacks rodean el perímetro. Los baños públicos son limitados (prueba en los Jardines Botánicos y recintos cercanos) y el estacionamiento en la calle es escaso: llega temprano o usa un taxi. Consulta la guía de estacionamiento en la página principal para más detalles.",
+    "mapTitle": "Mapa del bucle",
+    "backHome": "Volver a la guía principal",
+    "faqTitle": "Preguntas frecuentes del bucle",
+    "faq": [
+      {
+        "q": "¿Qué distancia tiene caminar alrededor del Queen's Park Savannah?",
+        "a": "El bucle perimetral tiene unos 3,5 km (2,2 millas). Un paseo relajado toma aproximadamente 40-45 minutos, uno más rápido unos 30-35 minutos, y un trote suave unas 20-25 minutos."
+      },
+      {
+        "q": "¿Cuánto tiempo toma caminar el bucle del Savannah?",
+        "a": "Una vuelta completa a la carretera perimetral de 3,5 km toma a la mayoría 40-45 minutos a paso relajado, 30-35 minutos a paso rápido, o unas 20-25 minutos trotando. La ruta es plana y pavimentada todo el recorrido."
+      },
+      {
+        "q": "¿El bucle del Savannah es bueno para correr?",
+        "a": "Sí. La carretera perimetral es plana, pavimentada y con tráfico calmado, lo que la convierte en una de las rutas de carrera más populares de Puerto España. Las mañanas son más frescas y menos concurridas."
+      },
+      {
+        "q": "¿Es seguro caminar alrededor del Savannah por la noche?",
+        "a": "El bucle se mantiene concurrido después del atardecer por los puestos de comida del lado sur, y por lo general está animado y razonablemente iluminado. Toma precauciones normales de ciudad y quédate en la carretera perimetral iluminada."
       }
     ]
   }

@@ -5,7 +5,10 @@ export const dynamic = 'force-static';
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://queensparksavannahpark.com';
   const locales = ['zh', 'en', 'es'];
-  const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
+  // Only canonical, indexable pages are listed. Legal/preference pages are
+  // intentionally left out (they are noindex,follow) and the distance guide is
+  // also registered here.
+  const routes = ['', '/queens-park-savannah-distance'];
 
   const sitemap: MetadataRoute.Sitemap = [];
 

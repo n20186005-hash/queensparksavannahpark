@@ -24,6 +24,10 @@ export async function generateMetadata({
         'x-default': enUrl,
       },
     },
+    robots: {
+      index: false,
+      follow: true,
+    },
   };
 }
 

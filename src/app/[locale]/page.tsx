@@ -1,9 +1,11 @@
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import QuickGlance from '@/components/QuickGlance';
 import AboutSection from '@/components/AboutSection';
 import Intro from '@/components/Intro';
 import TopThingsSection from '@/components/TopThingsSection';
+import DistanceSection from '@/components/DistanceSection';
 import BasicInfo from '@/components/BasicInfo';
 import HistoryTimeline from '@/components/HistoryTimeline';
 import RouteSection from '@/components/RouteSection';
@@ -32,9 +34,11 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
+        <QuickGlance />
         <AboutSection />
         <Intro />
         <TopThingsSection />
+        <DistanceSection />
         <BasicInfo />
         <HistoryTimeline />
         <RouteSection />
