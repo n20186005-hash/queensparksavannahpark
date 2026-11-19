@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { SITE } from '@/lib/site';
+import GuideBasics from '@/components/GuideBasics';
 
 const copy = {
   en: {
@@ -77,6 +78,7 @@ export default async function ThingsToDo({ params }: { params: Promise<{ locale:
       <a className="text-sm hover:underline" href={`/${locale}`} style={{ color: 'var(--accent)' }}>← {c.home}</a>
       <h1 className="font-display text-3xl sm:text-5xl font-bold mt-8 mb-6">{c.title}</h1>
       <p className="text-lg leading-relaxed mb-12" style={{ color: 'var(--text-secondary)' }}>{c.lead}</p>
+      <GuideBasics locale={locale} />
       <div className="grid sm:grid-cols-2 gap-5 mb-14">{c.sections.map(([title, body], i) => <section key={title} className="rounded-xl p-6" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}><span className="text-sm font-semibold" style={{ color: 'var(--accent)' }}>{String(i + 1).padStart(2, '0')}</span><h2 className="font-display text-xl font-semibold mt-2 mb-3">{title}</h2><p className="leading-relaxed text-sm" style={{ color: 'var(--text-secondary)' }}>{body}</p></section>)}</div>
       <section className="mb-12"><h2 className="font-display text-2xl font-semibold mb-5">{c.plan}</h2><ol className="space-y-3 list-decimal pl-6">{c.steps.map(item => <li key={item} className="pl-2">{item}</li>)}</ol></section>
       <section className="mb-12"><h2 className="font-display text-2xl font-semibold mb-5">{c.practical}</h2><ul className="space-y-3 list-disc pl-6">{c.notes.map(item => <li key={item} className="pl-2" style={{ color: 'var(--text-secondary)' }}>{item}</li>)}</ul></section>
