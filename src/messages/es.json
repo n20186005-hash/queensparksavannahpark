@@ -4,6 +4,9 @@
     "description": "Queen's Park Savannah en Puerto España: la rotonda más grande del mundo, vendedores de coco y comida callejera, los Siete Magníficos y acceso libre las 24 horas, con mapa."
   },
   "header": {
+    "explore": "Lugares cercanos",
+    "switchLanguage": "Cambiar idioma",
+    "toggleTheme": "Cambiar tema",
     "home": "Inicio",
     "gallery": "Galería",
     "reviews": "Reseñas",
@@ -11,6 +14,7 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
+    "photoAlt": "Paisaje de Queen's Park Savannah en Puerto España, Trinidad y Tobago",
     "title": "Queen's Park Savannah (Puerto España)",
     "subtitle": "El pulmón verde de Trinidad, el latido del Caribe",
     "rating": "4.4",
@@ -141,6 +145,9 @@
     "tipsDesc": "Dado que es la rotonda más grande del mundo, si pierdes tu desvío, ¡podrías tener que conducir todo el bucle de 3.5 km de nuevo!"
   },
   "gallery": {
+    "close": "Cerrar visor de fotos",
+    "previous": "Foto anterior",
+    "next": "Foto siguiente",
     "title": "Fotos Impresionantes",
     "subtitle": "Siente el Pulso Apasionado del Caribe",
     "captions": [

@@ -132,6 +132,7 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
   const lang = locale as Lang;
   const c = a.content[lang];
   const t = ui[lang];
+  const region = { en: 'Port of Spain · Trinidad and Tobago', es: 'Puerto España · Trinidad y Tobago', zh: '西班牙港 · 特立尼达和多巴哥' }[lang];
   const d = details[a.slug];
   const extra = lang === 'zh' ? { explore: '探索景点', intro: '景点导览', duration: '建议停留', access: '入园与参观规则', plan: '游览规划', culture: '历史、建筑与文化魅力', notice: '游览须知', viewpoint: '推荐拍摄机位', travel: '步行及抵达方式', source: '官方信息与现行安排', rate: '实时评分与游客评论', reviewAction: '查看此景点的最新评论', mapAction: '打开专属地图及路线', specific: '景点定位与特色', price: '门票与费用' } : lang === 'es' ? { explore: 'Explora el lugar', intro: 'Introducción', duration: 'Tiempo recomendado', access: 'Acceso y condiciones', plan: 'Planifica la visita', culture: 'Historia, arquitectura y cultura', notice: 'Antes de visitar', viewpoint: 'Mejores puntos para fotos', travel: 'A pie y en transporte', source: 'Fuente oficial y horarios vigentes', rate: 'Valoración y opiniones actuales', reviewAction: 'Ver reseñas de este lugar', mapAction: 'Abrir mapa y ruta de este lugar', specific: 'Identidad del lugar', price: 'Precios y entradas' } : { explore: 'Explore this place', intro: 'Introduction', duration: 'Suggested duration', access: 'Access and visitor rules', plan: 'Plan your visit', culture: 'History, architecture and culture', notice: 'Before you go', viewpoint: 'Recommended photo viewpoints', travel: 'Walking and local transport', source: 'Official source and current arrangements', rate: 'Current visitor rating and reviews', reviewAction: 'Read reviews for this place', mapAction: 'Open this place on Maps', specific: 'What makes this site distinct', price: 'Tickets and pricing' };
   const imageUrl = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(a.imageFile)}`;
@@ -141,7 +142,7 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
     <article className="max-w-4xl mx-auto">
       <a href={`/${locale}`} className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>← {t.back}</a>
-      <p className="uppercase tracking-widest text-xs mt-10 mb-3" style={{ color: 'var(--accent)' }}>Port of Spain · Trinidad and Tobago</p>
+      <p className="uppercase tracking-widest text-xs mt-10 mb-3" style={{ color: 'var(--accent)' }}>{region}</p>
       <h1 className="font-display text-3xl sm:text-5xl font-bold mb-4">{c.name}</h1>
       <p className="text-lg mb-5" style={{ color: 'var(--text-secondary)' }}>{c.tagline}</p>
       <div className="flex flex-wrap items-center gap-3 mb-9 text-sm"><a href={a.map} target="_blank" rel="noopener noreferrer" className="inline-flex rounded-full px-5 py-2.5 text-white font-semibold" style={{ background: 'var(--accent)' }}>{extra.mapAction}</a><span className="rounded-full px-4 py-2" style={{ border: '1px solid var(--border-color)', color: 'var(--text-secondary)' }}>{a.hours[lang]}</span><a href={a.map} target="_blank" rel="noopener noreferrer" className="underline" style={{ color: 'var(--accent)' }}>{extra.rate}: Google Maps</a><span className="text-xs" style={{ color: 'var(--text-secondary)' }}>{a.address}</span></div>

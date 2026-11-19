@@ -19,7 +19,7 @@ const copy = {
     ],
     plan: 'Suggested visit order', steps: ['Savannah overview and perimeter', 'Magnificent Seven exterior views', 'Royal Botanic Gardens', 'Optional zoo or performance venue'],
     practical: 'Before you go', notes: ['The Savannah is an open public landscape; individual attractions operate their own schedules.', 'Use designated crossings around the busy perimeter roads.', 'Carry water and sun protection; rain can change walking conditions.', 'Check official event announcements during Carnival and other large gatherings.'],
-    distance: 'Detailed loop distance and walking times', home: 'Back to Queen’s Park Savannah', sources: 'Official visitor references', map: 'Open Queen’s Park Savannah in Google Maps',
+    distance: 'Detailed loop distance and walking times', home: 'Back to Queen’s Park Savannah', sources: 'Official visitor references', map: 'Open Queen’s Park Savannah in Google Maps', nearbyNav: 'Nearby attractions', moreNav: 'More nearby attractions', botanicName: 'Royal Botanic Gardens', castleName: 'Stollmeyer’s Castle',
   },
   es: {
     title: 'Qué hacer cerca de Queen’s Park Savannah',
@@ -35,7 +35,7 @@ const copy = {
     ],
     plan: 'Orden de visita sugerido', steps: ['Panorámica y perímetro del Savannah', 'Fachadas de los Siete Magníficos', 'Jardín Botánico Real', 'Zoológico o espacio cultural opcional'],
     practical: 'Antes de salir', notes: ['El Savannah es un espacio abierto; los lugares vecinos tienen horarios propios.', 'Usa los pasos habilitados en las calles del perímetro.', 'Lleva agua y protección solar; la lluvia puede afectar el paseo.', 'Consulta los anuncios oficiales durante el Carnaval y otros eventos.'],
-    distance: 'Distancia del circuito y tiempos a pie', home: 'Volver a Queen’s Park Savannah', sources: 'Referencias turísticas oficiales', map: 'Abrir Queen’s Park Savannah en Google Maps',
+    distance: 'Distancia del circuito y tiempos a pie', home: 'Volver a Queen’s Park Savannah', sources: 'Referencias turísticas oficiales', map: 'Abrir Queen’s Park Savannah en Google Maps', nearbyNav: 'Atracciones cercanas', moreNav: 'Más lugares cercanos', botanicName: 'Jardín Botánico Real', castleName: 'Castillo de Stollmeyer',
   },
   zh: {
     title: 'Queen’s Park Savannah 周边景点与步行游览路线',
@@ -51,7 +51,7 @@ const copy = {
     ],
     plan: '建议游览顺序', steps: ['Savannah 草坪和外缘', '七大历史建筑外观', '皇家植物园', '选访动物园或表演场馆'],
     practical: '出发前须知', notes: ['Savannah 是开放式公共空间，周边各景点的营业安排并不相同。', '外围道路车流较多，请使用指定过街处。', '准备饮水和防晒用品；降雨后步行条件可能改变。', '狂欢节及大型活动期间，请查询官方现场公告。'],
-    distance: '查看环线距离与步行时间', home: '返回 Queen’s Park Savannah 首页', sources: '官方旅游资料', map: '在 Google 地图打开 Queen’s Park Savannah',
+    distance: '查看环线距离与步行时间', home: '返回 Queen’s Park Savannah 首页', sources: '官方旅游资料', map: '在 Google 地图打开 Queen’s Park Savannah', nearbyNav: '附近景点', moreNav: '更多周边景点', botanicName: '皇家植物园', castleName: '斯托尔迈耶城堡',
   },
 } as const;
 
@@ -83,8 +83,8 @@ export default async function ThingsToDo({ params }: { params: Promise<{ locale:
       <section className="mb-12"><h2 className="font-display text-2xl font-semibold mb-5">{c.plan}</h2><ol className="space-y-3 list-decimal pl-6">{c.steps.map(item => <li key={item} className="pl-2">{item}</li>)}</ol></section>
       <section className="mb-12"><h2 className="font-display text-2xl font-semibold mb-5">{c.practical}</h2><ul className="space-y-3 list-disc pl-6">{c.notes.map(item => <li key={item} className="pl-2" style={{ color: 'var(--text-secondary)' }}>{item}</li>)}</ul></section>
       <div className="flex flex-wrap gap-4 mb-12"><a className="rounded-full px-5 py-3 text-white text-sm font-medium" style={{ background: 'var(--accent)' }} href={`/${locale}/queens-park-savannah-distance`}>{c.distance}</a><a className="rounded-full px-5 py-3 text-sm font-medium" style={{ border: '1px solid var(--border-color)' }} href={SITE.mapsShareUrl} target="_blank" rel="noopener noreferrer">{c.map}</a></div>
-      <nav className="grid sm:grid-cols-2 gap-4 mb-12" aria-label="Nearby attractions"><a className="rounded-xl p-5 hover:underline" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }} href={`/${locale}/nearby/royal-botanic-gardens`}>Royal Botanic Gardens →</a><a className="rounded-xl p-5 hover:underline" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }} href={`/${locale}/nearby/stollmeyers-castle`}>Stollmeyer’s Castle →</a></nav>
-      <nav className="grid sm:grid-cols-2 gap-4 mb-12" aria-label="More nearby attractions">{[
+      <nav className="grid sm:grid-cols-2 gap-4 mb-12" aria-label={c.nearbyNav}><a className="rounded-xl p-5 hover:underline" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }} href={`/${locale}/nearby/royal-botanic-gardens`}>{c.botanicName} →</a><a className="rounded-xl p-5 hover:underline" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }} href={`/${locale}/nearby/stollmeyers-castle`}>{c.castleName} →</a></nav>
+      <nav className="grid sm:grid-cols-2 gap-4 mb-12" aria-label={c.moreNav}>{[
         ['mille-fleurs','Mille Fleurs'],
         ['queens-royal-college','Queen’s Royal College'],
         ['emperor-valley-zoo',locale === 'es' ? 'Zoológico Emperor Valley' : locale === 'zh' ? '皇帝谷动物园' : 'Emperor Valley Zoo'],

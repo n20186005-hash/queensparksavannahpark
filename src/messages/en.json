@@ -4,6 +4,9 @@
     "description": "Explore Queen's Park Savannah in Port of Spain, Trinidad. Discover the 3.5 km loop, walking tips, map, parking, food stalls and nearby attractions."
   },
   "header": {
+    "explore": "Explore nearby",
+    "switchLanguage": "Switch language",
+    "toggleTheme": "Toggle theme",
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
@@ -11,6 +14,7 @@
     "backToHome": "Back to Home"
   },
   "hero": {
+    "photoAlt": "Queen's Park Savannah landscape in Port of Spain, Trinidad and Tobago",
     "title": "Queen's Park Savannah (Port of Spain)",
     "subtitle": "Trinidad's Green Lung, The Beating Heart of the Caribbean",
     "rating": "4.4",
@@ -141,6 +145,9 @@
     "tipsDesc": "Since it's the world's largest roundabout, if you miss your turn, you might have to drive the entire 3.5km loop again!"
   },
   "gallery": {
+    "close": "Close photo viewer",
+    "previous": "Previous photo",
+    "next": "Next photo",
     "title": "Stunning Photos",
     "subtitle": "Feel the Passionate Pulse of the Caribbean",
     "captions": [

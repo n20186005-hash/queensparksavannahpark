@@ -11,7 +11,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/queens-park-savannah (1).jpg"
-          alt="Queen's Park Savannah - Main view in Port of Spain, Trinidad and Tobago"
+          alt={t('photoAlt')}
           className="w-full h-full object-cover"
           loading="eager"
           fetchPriority="high"
