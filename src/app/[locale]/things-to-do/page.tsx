@@ -84,6 +84,12 @@ export default async function ThingsToDo({ params }: { params: Promise<{ locale:
       <section className="mb-12"><h2 className="font-display text-2xl font-semibold mb-5">{c.practical}</h2><ul className="space-y-3 list-disc pl-6">{c.notes.map(item => <li key={item} className="pl-2" style={{ color: 'var(--text-secondary)' }}>{item}</li>)}</ul></section>
       <div className="flex flex-wrap gap-4 mb-12"><a className="rounded-full px-5 py-3 text-white text-sm font-medium" style={{ background: 'var(--accent)' }} href={`/${locale}/queens-park-savannah-distance`}>{c.distance}</a><a className="rounded-full px-5 py-3 text-sm font-medium" style={{ border: '1px solid var(--border-color)' }} href={SITE.mapsShareUrl} target="_blank" rel="noopener noreferrer">{c.map}</a></div>
       <nav className="grid sm:grid-cols-2 gap-4 mb-12" aria-label="Nearby attractions"><a className="rounded-xl p-5 hover:underline" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }} href={`/${locale}/nearby/royal-botanic-gardens`}>Royal Botanic Gardens →</a><a className="rounded-xl p-5 hover:underline" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }} href={`/${locale}/nearby/stollmeyers-castle`}>Stollmeyer’s Castle →</a></nav>
+      <nav className="grid sm:grid-cols-2 gap-4 mb-12" aria-label="More nearby attractions">{[
+        ['mille-fleurs','Mille Fleurs'],
+        ['queens-royal-college','Queen’s Royal College'],
+        ['emperor-valley-zoo',locale === 'es' ? 'Zoológico Emperor Valley' : locale === 'zh' ? '皇帝谷动物园' : 'Emperor Valley Zoo'],
+        ['presidents-house',locale === 'es' ? 'Casa del Presidente' : locale === 'zh' ? '总统府' : 'President’s House'],
+      ].map(([slug,name]) => <a key={slug} className="rounded-xl p-5 hover:underline" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }} href={`/${locale}/nearby/${slug}`}>{name} →</a>)}</nav>
       <section className="text-sm border-t pt-6" style={{ borderColor: 'var(--border-color)', color: 'var(--text-secondary)' }}><h2 className="font-semibold mb-3">{c.sources}</h2><a className="underline" href="https://visittrinidad.tt/things-to-do/sites-attractions/queens-park-savannah/" target="_blank" rel="noopener noreferrer">Visit Trinidad — Queen’s Park Savannah</a><span className="mx-2">·</span><a className="underline" href="https://visittrinidad.tt/attractions/royal-botanical-gardens/" target="_blank" rel="noopener noreferrer">Visit Trinidad — Royal Botanic Gardens</a></section>
     </article>
   </main>;
