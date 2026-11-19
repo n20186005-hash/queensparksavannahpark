@@ -1,6 +1,7 @@
 'use client';
 
 import { useMessages, useTranslations } from 'next-intl';
+import BoldText from './BoldText';
 
 export default function HistoryTimeline() {
   const t = useTranslations('historyTimeline');
@@ -51,16 +52,15 @@ export default function HistoryTimeline() {
           <h4 className="text-lg font-bold mb-3 flex items-center gap-2" style={{ color: 'var(--text-primary)' }}>
             💡 {t('guideTitle')}
           </h4>
-          <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }} dangerouslySetInnerHTML={{
-            __html: t('guideContent')
-              .replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--text-primary)">$1</strong>')
-          }} />
+          <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            <BoldText text={t('guideContent')} />
+          </p>
         </div>
 
         {lore.length > 0 && (
           <div className="mt-10 rounded-xl p-6 md:p-8" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
             <h4 className="text-lg font-bold mb-1 flex items-center gap-2" style={{ color: 'var(--text-primary)' }}>
-              <span role="img" aria-label="scroll">📜</span> {t('loreTitle')}
+              <span aria-hidden="true">📜</span> {t('loreTitle')}
             </h4>
             <p className="text-sm mb-6" style={{ color: 'var(--text-secondary)' }}>
               {t('loreNote')}

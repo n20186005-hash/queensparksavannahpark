@@ -183,6 +183,7 @@
     "moreReviews": "Leer Reseñas en Google Maps"
   },
   "mapSection": {
+    "iframeTitle": "Google Maps — Queen's Park Savannah, Puerto España",
     "title": "Ubicación y Cómo Visitar el Savannah en Puerto España",
     "subtitle": "11 Queen's Park E, Puerto España, Trinidad y Tobago",
     "openMaps": "Ver en Google Maps"
@@ -604,6 +605,8 @@
     "note": "Los materiales oficiales de turismo describen la rotonda en unas 2 millas; nosotros citamos el bucle peatonal completo en ≈3,5 km. Las rutas medidas pueden diferir ligeramente."
   },
   "distancePage": {
+    "homeLabel": "Inicio",
+    "iframeTitle": "Google Maps — circuito a pie de Queen's Park Savannah en Puerto España",
     "title": "Caminar y Correr por el Bucle del Queen's Park Savannah",
     "metaTitle": "El Bucle del Queen's Park Savannah: Caminata de 3,5 km, Tiempos y Ruta",
     "description": "Planifica una caminata o carrera alrededor del Queen's Park Savannah en Puerto España: distancia del bucle, tiempos según el ritmo, superficie, puntos de inicio, caminata nocturna y dónde estacionar.",

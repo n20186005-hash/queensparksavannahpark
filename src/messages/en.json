@@ -183,6 +183,7 @@
     "moreReviews": "Read Reviews on Google Maps"
   },
   "mapSection": {
+    "iframeTitle": "Google Maps — Queen's Park Savannah, Port of Spain",
     "title": "Location & How to Visit the Savannah in Port of Spain",
     "subtitle": "11 Queen's Park E, Port of Spain, Trinidad and Tobago",
     "openMaps": "View on Google Maps"
@@ -604,6 +605,8 @@
     "note": "Official tourism materials describe the ring road at about 2 miles; we quote the full pedestrian loop at ≈3.5 km. Measured routes can differ slightly."
   },
   "distancePage": {
+    "homeLabel": "Home",
+    "iframeTitle": "Google Maps — Queen's Park Savannah walking loop in Port of Spain",
     "title": "Walking & Jogging the Queen's Park Savannah Loop",
     "metaTitle": "Queen's Park Savannah Loop: 3.5 km Walk, Jogging Times & Route",
     "description": "Plan a walk or run around Queen's Park Savannah in Port of Spain: loop distance, pace and time estimates, surface, start points, night walking and where to park.",

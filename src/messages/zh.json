@@ -183,6 +183,7 @@
     "moreReviews": "在 Google Maps 查看评价"
   },
   "mapSection": {
+    "iframeTitle": "Google 地图——西班牙港 Queen's Park Savannah 公园",
     "title": "位置与前往：女王公园 Savannah（西班牙港）",
     "subtitle": "11 Queen's Park E, 西班牙港, 特立尼达和多巴哥",
     "openMaps": "在 Google Maps 查看位置"
@@ -604,6 +605,8 @@
     "note": "官方旅游资料将外侧车道描述为约 2 英里；我们按完整步行环线计为约 3.5 公里。不同测量路线可能略有差异。"
   },
   "distancePage": {
+    "homeLabel": "首页",
+    "iframeTitle": "Google 地图——西班牙港 Queen's Park Savannah 环线步行路线",
     "title": "女王公园 Savannah 环线散步与慢跑",
     "metaTitle": "女王公园 Savannah 环线：3.5 公里步行、跑步用时与路线",
     "description": "规划在西班牙港女王公园 Savannah 的散步或慢跑：环线距离、配速与用时估算、路面情况、起点、夜间步行与停车信息。",

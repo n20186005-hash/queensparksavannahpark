@@ -34,7 +34,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Google Maps - Queen's Park Savannah, Port of Spain"
+            title={t('iframeTitle')}
           />
         </div>
 

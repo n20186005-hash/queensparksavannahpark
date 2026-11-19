@@ -18,7 +18,7 @@ export default function DistanceGuide({ locale }: { locale: string }) {
       {
         '@type': 'ListItem',
         position: 1,
-        name: 'Home',
+        name: t('homeLabel'),
         item: `${SITE.url}/${locale}`,
       },
       {
@@ -182,7 +182,7 @@ export default function DistanceGuide({ locale }: { locale: string }) {
               allowFullScreen
               loading="lazy"
               referrerPolicy="strict-origin-when-cross-origin"
-              title="Google Maps - Queen's Park Savannah loop, Port of Spain"
+              title={t('iframeTitle')}
             />
           </div>
           <div className="mt-5 flex justify-center">
