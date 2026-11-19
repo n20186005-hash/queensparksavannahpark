@@ -1,4 +1,4 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
 import BoldText from './BoldText';
 import { SITE } from '@/lib/site';
 
@@ -9,6 +9,7 @@ import { SITE } from '@/lib/site';
 export default function LandmarksSection() {
   const t = useTranslations('landmarks');
   const messages = useMessages() as any;
+  const locale = useLocale();
   const items = (messages?.landmarks?.items || []) as Array<{ name: string; desc: string }>;
 
   return (
@@ -53,6 +54,9 @@ export default function LandmarksSection() {
         </div>
 
         <div className="mt-8 flex justify-center">
+          <a href={`/${locale}/things-to-do`} className="inline-flex items-center px-5 py-2.5 mr-3 rounded-full text-sm font-medium text-white" style={{ background: 'var(--accent)' }}>
+            {locale === 'es' ? 'Ruta y lugares cercanos' : locale === 'zh' ? '周边游览路线' : 'Explore nearby landmarks'}
+          </a>
           <a
             href={SITE.mapsShareUrl}
             target="_blank"
