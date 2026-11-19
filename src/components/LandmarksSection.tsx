@@ -57,6 +57,10 @@ export default function LandmarksSection() {
           {[
             { slug: 'royal-botanic-gardens', title: locale === 'es' ? 'Jardín Botánico Real' : locale === 'zh' ? '皇家植物园' : 'Royal Botanic Gardens' },
             { slug: 'stollmeyers-castle', title: locale === 'es' ? 'Castillo de Stollmeyer' : locale === 'zh' ? '斯托尔迈耶城堡' : 'Stollmeyer’s Castle' },
+            { slug: 'mille-fleurs', title: 'Mille Fleurs' },
+            { slug: 'queens-royal-college', title: 'Queen’s Royal College' },
+            { slug: 'emperor-valley-zoo', title: locale === 'es' ? 'Zoológico Emperor Valley' : locale === 'zh' ? '皇帝谷动物园' : 'Emperor Valley Zoo' },
+            { slug: 'presidents-house', title: locale === 'es' ? 'Casa del Presidente' : locale === 'zh' ? '总统府' : 'President’s House' },
           ].map(place => <a key={place.slug} href={`/${locale}/nearby/${place.slug}`} className="rounded-xl p-5 hover:underline font-semibold" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)', color: 'var(--accent)' }}>{place.title} →</a>)}
         </div>
 
