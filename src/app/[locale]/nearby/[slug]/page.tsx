@@ -121,7 +121,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const a = attractions.find(x => x.slug === slug);
   if (!a || !(locale in ui)) return {};
   const c = a.content[locale as Lang];
-  return { title: `${c.name} | Queen's Park Savannah Nearby Guide`, description: `${c.tagline}. ${c.intro}`, alternates: { canonical: `${SITE.url}/${locale}/nearby/${slug}`, languages: { en: `${SITE.url}/en/nearby/${slug}`, es: `${SITE.url}/es/nearby/${slug}`, zh: `${SITE.url}/zh/nearby/${slug}`, 'x-default': `${SITE.url}/en/nearby/${slug}` } }, openGraph: { title: c.name, description: c.intro, type: 'article', url: `${SITE.url}/${locale}/nearby/${slug}` } };
+  const guideTitle = { en: "Queen's Park Savannah Nearby Guide", es: 'Guía de lugares cercanos a Queen’s Park Savannah', zh: 'Queen’s Park Savannah 周边景点指南' }[locale as Lang];
+  return { title: `${c.name} | ${guideTitle}`, description: `${c.tagline}. ${c.intro}`, alternates: { canonical: `${SITE.url}/${locale}/nearby/${slug}`, languages: { en: `${SITE.url}/en/nearby/${slug}`, es: `${SITE.url}/es/nearby/${slug}`, zh: `${SITE.url}/zh/nearby/${slug}`, 'x-default': `${SITE.url}/en/nearby/${slug}` } }, openGraph: { title: c.name, description: c.intro, type: 'article', url: `${SITE.url}/${locale}/nearby/${slug}` } };
 }
 
 export default async function NearbyPage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
