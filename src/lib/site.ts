@@ -45,7 +45,7 @@ export const SITE = {
 
   // Ratings (latest Google listing, checked October 2026)
   rating: '4.4',
-  reviewCount: '9,798',
+  reviewCount: '9,823',
 
   // Nearby semantic landmarks (used for entity clustering)
   nearbyLandmark1: 'Royal Botanic Gardens',
