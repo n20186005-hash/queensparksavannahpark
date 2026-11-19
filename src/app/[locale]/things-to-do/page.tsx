@@ -89,6 +89,11 @@ export default async function ThingsToDo({ params }: { params: Promise<{ locale:
         ['queens-royal-college','Queen’s Royal College'],
         ['emperor-valley-zoo',locale === 'es' ? 'Zoológico Emperor Valley' : locale === 'zh' ? '皇帝谷动物园' : 'Emperor Valley Zoo'],
         ['presidents-house',locale === 'es' ? 'Casa del Presidente' : locale === 'zh' ? '总统府' : 'President’s House'],
+        ['hayes-court',locale === 'zh' ? '海斯府邸' : 'Hayes Court'],
+        ['ambards-house-roomor',locale === 'es' ? 'Casa de Ambard (Roomor)' : locale === 'zh' ? '安巴德宅邸 Roomor' : 'Ambard’s House (Roomor)'],
+        ['archbishops-palace',locale === 'es' ? 'Palacio Arzobispal' : locale === 'zh' ? '大主教府' : 'Archbishop’s Palace'],
+        ['whitehall',locale === 'zh' ? '白厅 Whitehall' : 'Whitehall (Rosenweg)'],
+        ['napa-performing-arts',locale === 'es' ? 'Academia de Artes Escénicas NAPA' : locale === 'zh' ? '国家表演艺术学院 NAPA' : 'National Academy for the Performing Arts'],
       ].map(([slug,name]) => <a key={slug} className="rounded-xl p-5 hover:underline" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }} href={`/${locale}/nearby/${slug}`}>{name} →</a>)}</nav>
       <section className="text-sm border-t pt-6" style={{ borderColor: 'var(--border-color)', color: 'var(--text-secondary)' }}><h2 className="font-semibold mb-3">{c.sources}</h2><a className="underline" href="https://visittrinidad.tt/things-to-do/sites-attractions/queens-park-savannah/" target="_blank" rel="noopener noreferrer">Visit Trinidad — Queen’s Park Savannah</a><span className="mx-2">·</span><a className="underline" href="https://visittrinidad.tt/attractions/royal-botanical-gardens/" target="_blank" rel="noopener noreferrer">Visit Trinidad — Royal Botanic Gardens</a></section>
     </article>

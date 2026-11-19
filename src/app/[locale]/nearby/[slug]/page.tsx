@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import { SITE } from '@/lib/site';
 import { details } from './details';
+import { moreAttractions } from './moreAttractions';
 
 type Lang = 'en' | 'es' | 'zh';
 type Entry = { name: string; tagline: string; intro: string; history: string; architecture: string; experience: string; route: string[]; photo: string; photography: string; faq: string[] };
@@ -95,6 +96,7 @@ const attractions: Attraction[] = [
       zh: { name: '总统府 The President’s House', tagline: '皇家植物园旁的历史官邸', intro: '总统府位于 Savannah 北侧、皇家植物园旁，既是重要历史建筑，也是国家元首至今使用的正式官邸。', history: '建筑于 1873 至 1876 年间兴建，前身为殖民时期总督官邸，后来成为共和国的重要象征，现仍具有官方职能。', architecture: '维多利亚殖民建筑特色包括采自 Laventille 和 Piccadilly 的当地蓝色石灰岩墙面及板岩屋顶。园林环境也构成建筑景观的重要部分。', experience: '游客可从允许的公共位置欣赏外观。内部遗产导览需以总统办公室公布的预约安排为准，并遵守安全和礼宾要求。', route: ['从 Savannah 北侧出发。', '沿皇家植物园的公共步道前往。', '从获准的公共位置观察官邸外观。', '如已预约导览，按总统办公室指引进入。'], photo: '从皇家植物园方向拍摄的总统府', photography: '只能在允许的地点拍摄，遵守保安指示，不拍摄限制区域，也不擅自进入官邸范围。', faq: ['目前仍是总统官邸吗？是。', '能参观内部吗？总统办公室有预约制导览，须查询场次。', '靠近植物园吗？是，邻接皇家植物园。'] },
     },
   },
+  ...moreAttractions,
 ];
 
 // Each supplementary photo is independently identifiable as this attraction,
@@ -135,6 +137,7 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
   const t = ui[lang];
   const region = { en: 'Port of Spain · Trinidad and Tobago', es: 'Puerto España · Trinidad y Tobago', zh: '西班牙港 · 特立尼达和多巴哥' }[lang];
   const d = details[a.slug];
+  const sourceLabel = a.official.includes('nationaltrust.tt') ? 'National Trust of Trinidad and Tobago' : a.official.includes('utt.edu.tt') ? 'University of Trinidad and Tobago' : a.official.includes('visittrinidad') ? 'Visit Trinidad' : a.official.includes('otp.tt') ? 'Office of the President' : a.official.includes('zstt.org') ? 'Zoological Society' : 'Queen’s Royal College';
   const extra = lang === 'zh' ? { explore: '探索景点', intro: '景点导览', duration: '建议停留', access: '入园与参观规则', plan: '游览规划', culture: '历史、建筑与文化魅力', notice: '游览须知', viewpoint: '推荐拍摄机位', travel: '步行及抵达方式', source: '官方信息与现行安排', rate: '实时评分与游客评论', reviewAction: '查看此景点的最新评论', mapAction: '打开专属地图及路线', specific: '景点定位与特色', price: '门票与费用' } : lang === 'es' ? { explore: 'Explora el lugar', intro: 'Introducción', duration: 'Tiempo recomendado', access: 'Acceso y condiciones', plan: 'Planifica la visita', culture: 'Historia, arquitectura y cultura', notice: 'Antes de visitar', viewpoint: 'Mejores puntos para fotos', travel: 'A pie y en transporte', source: 'Fuente oficial y horarios vigentes', rate: 'Valoración y opiniones actuales', reviewAction: 'Ver reseñas de este lugar', mapAction: 'Abrir mapa y ruta de este lugar', specific: 'Identidad del lugar', price: 'Precios y entradas' } : { explore: 'Explore this place', intro: 'Introduction', duration: 'Suggested duration', access: 'Access and visitor rules', plan: 'Plan your visit', culture: 'History, architecture and culture', notice: 'Before you go', viewpoint: 'Recommended photo viewpoints', travel: 'Walking and local transport', source: 'Official source and current arrangements', rate: 'Current visitor rating and reviews', reviewAction: 'Read reviews for this place', mapAction: 'Open this place on Maps', specific: 'What makes this site distinct', price: 'Tickets and pricing' };
   const imageUrl = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(a.imageFile)}`;
   const breadcrumb = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: "Queen's Park Savannah", item: `${SITE.url}/${locale}` }, { '@type': 'ListItem', position: 2, name: c.name, item: `${SITE.url}/${locale}/nearby/${slug}` }] };
@@ -166,7 +169,7 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
       <section className="mb-11"><h2 className="font-display text-2xl font-semibold mb-4">{t.reviews}</h2><p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t.reviewsText}</p><a className="underline inline-block mt-3 text-sm" href={a.map} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)' }}>{extra.reviewAction}</a></section>
       <section className="rounded-xl p-6 mb-12" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}><h2 className="font-display text-2xl font-semibold mb-4">{t.mapTitle}</h2><p className="text-sm mb-4" style={{ color: 'var(--text-secondary)' }}>{a.address}</p><a className="underline text-sm font-semibold" href={a.map} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)' }}>{t.maps}</a></section>
       <section className="mb-12"><h2 className="font-display text-2xl font-semibold mb-5">{t.other}</h2><div className="flex flex-wrap gap-3">{other.map(x => <a className="rounded-full px-5 py-2.5 text-sm" key={x.slug} href={`/${locale}/nearby/${x.slug}`} style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>{x.content[lang].name}</a>)}<a className="rounded-full px-5 py-2.5 text-sm" href={`/${locale}/things-to-do`} style={{ border: '1px solid var(--border-color)' }}>{t.back}</a></div></section>
-      <section className="text-sm border-t pt-6" style={{ borderColor: 'var(--border-color)' }}><h2 className="font-semibold mb-3">{t.sources}</h2><a className="underline" href={a.official} target="_blank" rel="noopener noreferrer">{a.official.includes('visittrinidad') ? 'Visit Trinidad' : a.official.includes('otp.tt') ? 'Office of the President' : a.official.includes('zstt.org') ? 'Zoological Society' : 'Queen’s Royal College'}</a><span className="mx-3">·</span><a href={a.imageSource} className="underline" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a></section>
+      <section className="text-sm border-t pt-6" style={{ borderColor: 'var(--border-color)' }}><h2 className="font-semibold mb-3">{t.sources}</h2><a className="underline" href={a.official} target="_blank" rel="noopener noreferrer">{sourceLabel}</a><span className="mx-3">·</span><a href={a.imageSource} className="underline" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a></section>
     </article>
   </main>;
 }

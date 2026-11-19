@@ -14,6 +14,7 @@ import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
 import WeatherSection from '@/components/WeatherSection';
 import LandmarksSection from '@/components/LandmarksSection';
+import NearbyExplorer from '@/components/NearbyExplorer';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
@@ -38,6 +39,7 @@ export default async function HomePage({
         <AboutSection />
         <Intro />
         <TopThingsSection />
+        <NearbyExplorer />
         <DistanceSection />
         <BasicInfo />
         <HistoryTimeline />

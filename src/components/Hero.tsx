@@ -1,8 +1,11 @@
 import { useTranslations } from 'next-intl';
 import { SITE } from '@/lib/site';
+import { useLocale } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const locale = useLocale();
+  const tHeader = useTranslations('header');
   const mapsUrl = SITE.mapsShareUrl;
 
   return (
@@ -57,6 +60,7 @@ export default function Hero() {
               </svg>
               <span className="text-white text-sm">{t('openMaps')}</span>
             </a>
+            <a href={`/${locale}/#nearby`} className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors text-white text-sm">{tHeader('explore')}</a>
           </div>
         </div>
       </div>
