@@ -8,7 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Only canonical, indexable pages are listed. Legal/preference pages are
   // intentionally left out (they are noindex,follow) and the distance guide is
   // also registered here.
-  const routes = ['', '/queens-park-savannah-distance', '/things-to-do', '/nearby/royal-botanic-gardens', '/nearby/stollmeyers-castle'];
+  const routes = ['', '/queens-park-savannah-distance', '/things-to-do', '/nearby/royal-botanic-gardens', '/nearby/stollmeyers-castle', '/nearby/mille-fleurs', '/nearby/queens-royal-college', '/nearby/emperor-valley-zoo', '/nearby/presidents-house'];
 
   const sitemap: MetadataRoute.Sitemap = [];
 
