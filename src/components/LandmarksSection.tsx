@@ -53,6 +53,13 @@ export default function LandmarksSection() {
           ))}
         </div>
 
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+          {[
+            { slug: 'royal-botanic-gardens', title: locale === 'es' ? 'Jardín Botánico Real' : locale === 'zh' ? '皇家植物园' : 'Royal Botanic Gardens' },
+            { slug: 'stollmeyers-castle', title: locale === 'es' ? 'Castillo de Stollmeyer' : locale === 'zh' ? '斯托尔迈耶城堡' : 'Stollmeyer’s Castle' },
+          ].map(place => <a key={place.slug} href={`/${locale}/nearby/${place.slug}`} className="rounded-xl p-5 hover:underline font-semibold" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)', color: 'var(--accent)' }}>{place.title} →</a>)}
+        </div>
+
         <div className="mt-8 flex justify-center">
           <a href={`/${locale}/things-to-do`} className="inline-flex items-center px-5 py-2.5 mr-3 rounded-full text-sm font-medium text-white" style={{ background: 'var(--accent)' }}>
             {locale === 'es' ? 'Ruta y lugares cercanos' : locale === 'zh' ? '周边游览路线' : 'Explore nearby landmarks'}
