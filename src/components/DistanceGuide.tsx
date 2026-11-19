@@ -1,5 +1,6 @@
 import { useTranslations, useMessages } from 'next-intl';
 import { SITE } from '@/lib/site';
+import GuideBasics from './GuideBasics';
 
 export default function DistanceGuide({ locale }: { locale: string }) {
   const t = useTranslations('distancePage');
@@ -75,6 +76,8 @@ export default function DistanceGuide({ locale }: { locale: string }) {
         <p className="text-lg leading-relaxed mb-12" style={{ color: 'var(--text-secondary)' }}>
           {t('hero')}
         </p>
+
+        <GuideBasics locale={locale} />
 
         {/* Pace table */}
         <section className="mb-14">
