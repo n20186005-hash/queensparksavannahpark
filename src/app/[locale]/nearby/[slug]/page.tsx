@@ -1,3 +1,5 @@
+import cityPlaces from '@/lib/city-places.json';
+import CityHeritageGuide from '@/components/CityHeritageGuide';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
@@ -117,10 +119,16 @@ const ui = {
   zh: { back: '返回 Savannah', other: '其他周边景点', about: '历史背景与介绍', architecture: '建筑与景观特色', experience: '游览观察重点', info: '基本信息', address: '具体地址', hours: '开放与参观安排', admission: '门票', management: '关于景点及管理主体', route: '建议游览路线', tips: '拍照机位与游览须知', reviews: '游客评分与评价', reviewsText: '当前 Google Maps 评分、评价数量和具体游客意见请以该景点的独立地点页为准。本站不展示未经核实的数字。', maps: '在 Google Maps 查看本景点位置', sources: '官方资料与实景照片来源', faq: '常见问题', transport: '交通方式', transportText: '可以 Savannah 外围作为方向参照，沿指定过街处步行，或搭乘当地出租车。活动期间交通与道路管制可能变化。', stay: '住宿建议', stayText: '如需连续游览 Savannah 与周边文化景点，可考虑西班牙港或 St. Clair 一带住宿，预订前比较交通和出行便利性。', highlights: '游览建议与景区特色', gallery: '景点实景照片', mapTitle: '交通指南与地图导航' },
 } as const;
 
-export function generateStaticParams() { return attractions.flatMap(a => (['en', 'es', 'zh'] as Lang[]).map(locale => ({ locale, slug: a.slug }))); }
+export function generateStaticParams() { return [...attractions, ...cityPlaces].flatMap(a => (['en', 'es', 'zh'] as Lang[]).map(locale => ({ locale, slug: a.slug }))); }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
   const { locale, slug } = await params;
+  const cityPlace = cityPlaces.find(place => place.slug === slug);
+  if (cityPlace && locale in ui) {
+    const c = cityPlace.copy[locale as Lang];
+    const path = (language: string) => `${SITE.url}/${language}/nearby/${slug}`;
+    return { title: c.name, description: c.history, alternates: { canonical: path(locale), languages: { en: path('en'), es: path('es'), zh: path('zh'), 'x-default': path('en') } }, openGraph: { title: c.name, description: c.history, url: path(locale), type: 'article' } };
+  }
   const a = attractions.find(x => x.slug === slug);
   if (!a || !(locale in ui)) return {};
   const c = a.content[locale as Lang];
@@ -130,6 +138,11 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 export default async function NearbyPage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
   const { locale, slug } = await params;
+  const cityPlace = cityPlaces.find(place => place.slug === slug);
+  if (cityPlace && locale in ui) {
+    setRequestLocale(locale);
+    return <CityHeritageGuide place={cityPlace} locale={locale as Lang} />;
+  }
   const a = attractions.find(x => x.slug === slug);
   if (!a || !(locale in ui)) notFound();
   setRequestLocale(locale);

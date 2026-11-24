@@ -1,3 +1,4 @@
+import cityPlaces from '@/lib/city-places.json';
 import { MetadataRoute } from 'next';
 
 export const dynamic = 'force-static';
@@ -8,7 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Only canonical, indexable pages are listed. Legal/preference pages are
   // intentionally left out (they are noindex,follow) and the distance guide is
   // also registered here.
-  const routes = ['', '/queens-park-savannah-distance', '/things-to-do', '/nearby/royal-botanic-gardens', '/nearby/stollmeyers-castle', '/nearby/mille-fleurs', '/nearby/queens-royal-college', '/nearby/emperor-valley-zoo', '/nearby/presidents-house', '/nearby/hayes-court', '/nearby/ambards-house-roomor', '/nearby/archbishops-palace', '/nearby/whitehall', '/nearby/napa-performing-arts'];
+  const routes = ['', '/queens-park-savannah-distance', '/things-to-do', '/nearby/royal-botanic-gardens', '/nearby/stollmeyers-castle', '/nearby/mille-fleurs', '/nearby/queens-royal-college', '/nearby/emperor-valley-zoo', '/nearby/presidents-house', '/nearby/hayes-court', '/nearby/ambards-house-roomor', '/nearby/archbishops-palace', '/nearby/whitehall', '/nearby/napa-performing-arts', ...cityPlaces.map(place => `/nearby/${place.slug}`)];
 
   const sitemap: MetadataRoute.Sitemap = [];
 

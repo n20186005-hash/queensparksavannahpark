@@ -1,3 +1,4 @@
+import cityPlaces from '@/lib/city-places.json';
 import { useLocale } from 'next-intl';
 
 const places = [
@@ -17,9 +18,9 @@ const places = [
 export default function NearbyExplorer() {
   const locale = useLocale() as 'en' | 'es' | 'zh';
   const text = {
-    en: { title: 'Explore 11 nearby attractions', intro: 'Discover individual visitor guides for the historic Magnificent Seven, the Botanic Gardens, zoo, President’s House and the performing-arts district.', all: 'Walking route and visitor planning' },
-    es: { title: 'Explora 11 lugares cercanos', intro: 'Guías individuales de los Siete Magníficos, el Jardín Botánico, zoológico, Casa del Presidente y espacios artísticos.', all: 'Ruta a pie y consejos para la visita' },
-    zh: { title: '探索 11 个周边景点', intro: '独立游览指南涵盖七大历史建筑、皇家植物园、动物园、总统府和现代演艺地标。', all: '查看步行路线与游览建议' },
+    en: { title: 'Explore 31 nearby attractions', intro: 'Discover individual visitor guides for the historic Magnificent Seven, the Botanic Gardens, zoo, President’s House and the performing-arts district.', all: 'Walking route and visitor planning' },
+    es: { title: 'Explora 31 lugares cercanos', intro: 'Guías individuales de los Siete Magníficos, el Jardín Botánico, zoológico, Casa del Presidente y espacios artísticos.', all: 'Ruta a pie y consejos para la visita' },
+    zh: { title: '探索 31 个周边景点', intro: '独立游览指南涵盖七大历史建筑、皇家植物园、动物园、总统府和现代演艺地标。', all: '查看步行路线与游览建议' },
   }[locale];
 
   return (
@@ -28,7 +29,7 @@ export default function NearbyExplorer() {
         <h2 className="font-display text-3xl sm:text-4xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>{text.title}</h2>
         <p className="max-w-3xl mb-8 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{text.intro}</p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {places.map(place => <a key={place.slug} href={`/${locale}/nearby/${place.slug}`} className="block rounded-xl p-5 hover:underline transition-colors" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+          {[...places, ...cityPlaces.map(p => ({ slug: p.slug, en: [p.copy.en.name, p.address], es: [p.copy.es.name, p.address], zh: [p.copy.zh.name, p.address] }))].map(place => <a key={place.slug} href={`/${locale}/nearby/${place.slug}`} className="block rounded-xl p-5 hover:underline transition-colors" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
             <h3 className="font-display font-semibold text-lg mb-2" style={{ color: 'var(--text-primary)' }}>{place[locale][0]}</h3>
             <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{place[locale][1]}</p>
           </a>)}
